@@ -3,10 +3,11 @@
 
   // Vide - Video Background Settings
   $('body').vide({
-    mp4: "mp4/bg.mp4",
-    poster: "img/bg-mobile-fallback.jpg"
+    //mp4: "mp4/bg.mp4",
+    //poster: "img/bg-mobile-fallback.jpg"
+    poster: "45-degree-fabric-dark.png"
   }, {
-    posterType: 'jpg'
+    posterType: 'png'
   });
 
 })(jQuery); // End of use strict
