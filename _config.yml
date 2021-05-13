@@ -3,7 +3,7 @@ title: Lorenzo Carnevale
 description: Research Fellow at University of Messina
 
 baseurl: "" #name of GitHub repository
-url: "www.lorenzocarnevale.com" #custom url to be used instead of GitHub repository
+url: "" #custom url to be used instead of GitHub repository
 email: lcarnevale@unime.it
 
 highlighter: rouge
