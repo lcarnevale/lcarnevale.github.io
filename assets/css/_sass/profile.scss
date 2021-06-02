@@ -1,0 +1,29 @@
+/* Profile */
+.profile {
+    border-style: solid;
+    border-color: $light-gray;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 6px;
+    border-radius: 50%;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+// adjust tile sizes on smaller screens
+@include media-query($on-phone) {
+  @media screen and (max-width: $on-phone){
+
+    .profile {
+      width: 40%;
+    }
+
+  }
+}
