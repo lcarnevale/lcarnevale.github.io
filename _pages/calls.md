@@ -13,4 +13,4 @@ published: true
 
 ## Workshops
 - [Paper Submission: June 23, 2021 - The 1st IEEE International Workshop on Mixed Reality Implications on Cultural Heritage Experience (MrICHE 2021)](https://fcrlab.unime.it/calls/mriche2021)
-- [Paper Submission: July 1, 2021 - The 1st IEEE International Workshop on Distributed and Intelligent Systems (DaIS 2021)](https://fcrlab.unime.it/calls/dais2021)
+- [Paper Submission: July 1, 2021 - The 1st IEEE International Workshop on Distributed and Intelligent Systems (DistInSys 2021)](https://fcrlab.unime.it/calls/distinsys2021)
