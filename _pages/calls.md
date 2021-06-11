@@ -5,7 +5,10 @@ permalink: /calls/
 published: true
 ---
 
+The following calls are open and wait for your submission. If you have any question, please contact me using the email in the footer.
+
 ## Special Issues
+- [Paper Submission: June 30, 2022 - Digital Healthcare Leveraging Edge Computing and the Internet of Things, Sensors, MDPI](https://www.mdpi.com/journal/sensors/special_issues/digihealth_IoT)
 - [Paper Submission: August 31, 2021 - Artificial Intelligence on the Edge, Information, MDPI](https://fcrlab.unime.it/calls/artificial-intelligence-in-the-edge)
 
 ## Conferences
