@@ -36,6 +36,9 @@ published: true
 
 ## Conference Papers
 
+#### 2021
+1. Lorenzo Carnevale, Armando Ruggeri, Francesco Martella, Antonio Celesti, Maria Fazio e Massimo Villari. “Multi Hop Reconfiguration of End-Devices in Heterogeneous Edge-IoT Mesh Networks”. 2021 IEEE Symposium on Computers and Communications (ISCC), Athenes, Greece, September 2021 (doi: just accepted)
+
 #### 2019
 1. Alina Buzachis and Antonino Galletta and Antonio Celesti and Lorenzo Carnevale and Massimo Villari. "*Towards Osmotic Computing: a Blue-Green Strategy for the Fast Re-Deployment of Microservices*", 2019 IEEE Symposium on Computers and Communications (ISCC), Barcelona, Spain, June 2019, pp. 1-6 (doi: [10.1109/ISCC47284.2019.8969621](https://doi.org/10.1109/ISCC47284.2019.8969621)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201906-paper-conference-ieee-iscc.bib)]
 
