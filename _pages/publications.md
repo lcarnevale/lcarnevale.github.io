@@ -39,6 +39,9 @@ published: true
 #### 2021
 1. Lorenzo Carnevale, Armando Ruggeri, Francesco Martella, Antonio Celesti, Maria Fazio e Massimo Villari. “Multi Hop Reconfiguration of End-Devices in Heterogeneous Edge-IoT Mesh Networks”. 2021 IEEE Symposium on Computers and Communications (ISCC), Athenes, Greece, September 2021 (doi: just accepted)
 
+#### 2020
+1. Emanuele Carlini, Lorenzo Carnevale, Massimo Coppola, Patrizio Dazzi, Gabriele Mencagli, Domenico Talia e Massimo Villari. “An Osmotic Ecosystem for Data Streaming Applications in Smart Cities”. Proceedings of the 1st Workshop on Flexible Resource and Application Management on the Edge (FRAME). Virtual Event, Sweden: Association for Computing Machinery, 2020, pp. 27–31 (ISBN: 9781450383844, doi: [10.1145/3452369.3463822](https://doi.org/10.1145/3452369.3463822))
+
 #### 2019
 1. Alina Buzachis and Antonino Galletta and Antonio Celesti and Lorenzo Carnevale and Massimo Villari. "*Towards Osmotic Computing: a Blue-Green Strategy for the Fast Re-Deployment of Microservices*", 2019 IEEE Symposium on Computers and Communications (ISCC), Barcelona, Spain, June 2019, pp. 1-6 (doi: [10.1109/ISCC47284.2019.8969621](https://doi.org/10.1109/ISCC47284.2019.8969621)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201906-paper-conference-ieee-iscc.bib)]
 
