@@ -13,4 +13,4 @@ I used to act as Researcher since the beginning of my carrier, publishing about 
 
 My current research focuses on the collaboration between humans and ambient intelligence.
 
-I am reviewer of respected Springer, IEEE and Elsevier Journals, and co-author of more than 20 manuscripts.
+I am reviewer of respected Springer, IEEE and Elsevier Journals, member of the <a href="http://www.ifiptc12.org/component/tags/tag/41-wg-12-9">IFIP Working Group 12.9 about Computational Intelligence</a>, co-chairs of IEEE Workshops (<a href="https://fcrlab.unime.it/calls/distinsys2021">DistInSys</a> and <a href="https://fcrlab.unime.it/calls/mriche2021">MrICHE</a>) and co-author of more than 20 manuscripts.
