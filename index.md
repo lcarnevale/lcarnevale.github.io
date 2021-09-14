@@ -11,6 +11,6 @@ This is Lorenzo! I am a Research Fellow in <a href="https://fcrlab.unime.it/">FC
 
 I used to act as Researcher since the beginning of my carrier, publishing about Cloud Computing, Edge Computing, Internet of Things and Distributed Systems of all kinds, as well as Artificial Intelligence, Intelligent Systems and Robotics.
 
-My current research focuses on the collaboration between humans and ambient intelligence.
+My current research focuses on wireless sensor networks.
 
 I am reviewer of respected Springer, IEEE and Elsevier Journals, member of the <a href="http://www.ifiptc12.org/component/tags/tag/41-wg-12-9">IFIP Working Group 12.9 about Computational Intelligence</a>, co-chairs of IEEE Workshops (<a href="https://fcrlab.unime.it/calls/distinsys2021">DistInSys</a> and <a href="https://fcrlab.unime.it/calls/mriche2021">MrICHE</a>) and co-author of more than 20 manuscripts.
