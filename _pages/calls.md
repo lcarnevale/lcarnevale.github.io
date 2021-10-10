@@ -12,4 +12,4 @@ The following calls are open and wait for your submission. If you have any quest
 - [Paper Submission: June 30, 2022 - Digital Healthcare Leveraging Edge Computing and the Internet of Things, Sensors, MDPI](https://www.mdpi.com/journal/sensors/special_issues/digihealth_IoT)
 
 ## Conferences
-- [Paper Submission: tbd - The 22nd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID 2022), Taormina (Messina), Italy, 16-19 May 2022](https://fcrlab.unime.it/ccgrid22/)
+- [Paper Submission: November 24, 2021 - The 22nd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID 2022), Taormina (Messina), Italy, 16-19 May 2022](https://fcrlab.unime.it/ccgrid22/)
