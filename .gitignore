@@ -1,8 +1,12 @@
+# Jekyll
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# GitHub Pages
+Gemfile.lock
 
 # vscode
 workspace.code-workspace
