@@ -6,8 +6,8 @@ published: true
 ---
 
 ## Classes
-**University of Messina**, Computer Networks [2021 - now], [eLearning 2021/2022](https://moodle2.unime.it/course/view.php?id=48056)
-**University of Messina**, Informatica [2021 - now], [eLearning 2021/2022](https://moodle2.unime.it/course/view.php?id=48069)
+- **University of Messina**, Computer Networks [2021 - now], [eLearning 2021/2022](https://moodle2.unime.it/course/view.php?id=48056)
+- **University of Messina**, Informatica [2021 - now], [eLearning 2021/2022](https://moodle2.unime.it/course/view.php?id=48069)
 
 ## Thesis Students (co-advisor)
 1. Francesco Aragona, "*Swarm Intelligence e Big Data Analysis con MapReduce: applicazione Twitter trends*", BE 16/17, University of Messina
