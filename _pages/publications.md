@@ -41,11 +41,13 @@ published: true
 ## Conference Papers
 
 #### 2021
-0. Lorenzo Carnevale, Armando Ruggeri, Francesco Martella, Antonio Celesti, Maria Fazio e Massimo Villari. “Multi Hop Reconfiguration of End-Devices in Heterogeneous Edge-IoT Mesh Networks”. 2021 IEEE Symposium on Computers and Communications (ISCC), Athenes, Greece, September 2021 (doi: just accepted)
+0. Lorenzo Carnevale, Luisa Damiano, Antonio Fleres, and Massimo Villari. “*Visitor Artwork Ambient and how Making New Functions of Cultural Heritage by Using Augmented Reality within an Ambient Intelligence*”. 2021 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct). October 2021, pp. 8-12 (doi: [10.1109/ISMAR-Adjunct54149.2021.00013](https://doi.org/10.1109/ISMAR-Adjunct54149.2021.00013))
+
+0. Lorenzo Carnevale, Armando Ruggeri, Francesco Martella, Antonio Celesti, Maria Fazio e Massimo Villari. “*Multi Hop Reconfiguration of End-Devices in Heterogeneous Edge-IoT Mesh Networks*”. 2021 IEEE Symposium on Computers and Communications (ISCC), Athenes, Greece, September 2021 (doi: just accepted)
 {: reversed="reversed"}
 
 #### 2020
-0. Emanuele Carlini, Lorenzo Carnevale, Massimo Coppola, Patrizio Dazzi, Gabriele Mencagli, Domenico Talia e Massimo Villari. “An Osmotic Ecosystem for Data Streaming Applications in Smart Cities”. Proceedings of the 1st Workshop on Flexible Resource and Application Management on the Edge (FRAME). Virtual Event, Sweden: Association for Computing Machinery, 2020, pp. 27–31 (ISBN: 9781450383844, doi: [10.1145/3452369.3463822](https://doi.org/10.1145/3452369.3463822))
+0. Emanuele Carlini, Lorenzo Carnevale, Massimo Coppola, Patrizio Dazzi, Gabriele Mencagli, Domenico Talia e Massimo Villari. “*An Osmotic Ecosystem for Data Streaming Applications in Smart Cities*”. Proceedings of the 1st Workshop on Flexible Resource and Application Management on the Edge (FRAME), Virtual Event, Sweden: Association for Computing Machinery, 2020, pp. 27–31 (ISBN: 9781450383844, doi: [10.1145/3452369.3463822](https://doi.org/10.1145/3452369.3463822))
 {: reversed="reversed"}
 
 #### 2019
