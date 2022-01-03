@@ -43,7 +43,7 @@ published: true
 #### 2021
 0. Lorenzo Carnevale, Luisa Damiano, Antonio Fleres, and Massimo Villari. “*Visitor Artwork Ambient and how Making New Functions of Cultural Heritage by Using Augmented Reality within an Ambient Intelligence*”. 2021 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct). October 2021, pp. 8-12 (doi: [10.1109/ISMAR-Adjunct54149.2021.00013](https://doi.org/10.1109/ISMAR-Adjunct54149.2021.00013))
 
-0. Lorenzo Carnevale, Armando Ruggeri, Francesco Martella, Antonio Celesti, Maria Fazio e Massimo Villari. “*Multi Hop Reconfiguration of End-Devices in Heterogeneous Edge-IoT Mesh Networks*”. 2021 IEEE Symposium on Computers and Communications (ISCC), Athenes, Greece, September 2021 (doi: just accepted)
+0. Lorenzo Carnevale, Armando Ruggeri, Francesco Martella, Antonio Celesti, Maria Fazio e Massimo Villari. “*Multi Hop Reconfiguration of End-Devices in Heterogeneous Edge-IoT Mesh Networks*”. 2021 IEEE Symposium on Computers and Communications (ISCC), Athenes, Greece, September 2021 (doi: [10.1109/ISCC53001.2021.9631500](https://doi.org/10.1109/ISCC53001.2021.9631500))
 {: reversed="reversed"}
 
 #### 2020
