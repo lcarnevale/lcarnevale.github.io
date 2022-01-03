@@ -1,6 +1,6 @@
 ### your site title here
 title: Lorenzo Carnevale
-description: Research Fellow at University of Messina
+description: Assistant Professor at University of Messina
 
 baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -22,6 +22,9 @@ github: "lcarnevale"
 # researchgate: "#"
 orcid: "0000-0002-1349-341X"
 google_analytics: "G-V0TBR5PTVH"
+scopus: "57195963279"
+google_scholar: "_5EzmTwAAAAJ&hl=it"
+
 
 # highlighter: rouge
 # markdown: kramdown
@@ -52,6 +55,7 @@ sass:
 
 include:
   - _pages
+  - _bibliography
 
 exclude:
   - README.md
