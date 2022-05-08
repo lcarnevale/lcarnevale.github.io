@@ -15,6 +15,8 @@ The following calls are open and wait for your submission. If you have any quest
 #### Conference and Workshop(s) (Co-)Chair
 0. [DistInSys 2022](https://fcrlab.unime.it/calls/distinsys2022) - "<i>2nd International Workshop on Distributed Intelligent Systems</i>", June 2022, Rhodes, Greece
 
+0. [CCGrid 2022](https://fcrlab.unime.it/ccgrid22) - "<i>22nd IEEE International Symposium on Cluster, Cloud and Internet Computing</i>", May 2022, Taormina, Messina, Italy
+
 0. [AI4Health 2022](https://www.ai4health.icar.cnr.it) - "<i>International Workshop on Artificial Intelligence for Health</i>", May 2022, Taormina, Messina, Italy
 
 0. [MrICHE 2021](https://fcrlab.unime.it/calls/mriche2021) - "<i>1st IEEE International Workshop on Mixed Reality Implications on Cultural Heritage Experience</i>", October 2021, Bari, Italy
