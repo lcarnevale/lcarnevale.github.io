@@ -12,6 +12,8 @@ The following calls are open and wait for your submission. If you have any quest
 - [Paper Submission: June 30, 2022 - Digital Healthcare Leveraging Edge Computing and the Internet of Things, Sensors, MDPI](https://www.mdpi.com/journal/sensors/special_issues/digihealth_IoT)
 
 #### Conference and Workshop(s) (Co-)Chair
+0. [MobiCASE 2022](https://mobicase.eai-conferences.org/2022) - "<i>13th EAI International Conference on Mobile Computing, Applications and Services</i>", November 2022, Messina, Italy
+
 0. [DistInSys 2022](https://fcrlab.unime.it/calls/distinsys2022) - "<i>2nd International Workshop on Distributed Intelligent Systems</i>", June 2022, Rhodes, Greece
 
 0. [CCGrid 2022](https://fcrlab.unime.it/ccgrid22) - "<i>22nd IEEE International Symposium on Cluster, Cloud and Internet Computing</i>", May 2022, Taormina, Messina, Italy
