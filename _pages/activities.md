@@ -25,6 +25,8 @@ The following calls are open and wait for your submission. If you have any quest
 {: reversed="reversed"}
 
 #### Program Committee Membership
+0. [IHSH’2022](https://ihsh2022.uqar.ca/) - "<i>The 2022 International Conference on Human-centric Smart environments for Health and well-being</i>", October 2022, Lévis, Canada
+
 0. [ICTS4eHealth 2022](https://icts4ehealth.icar.cnr.it/) - "<i>2nd Edition of the IEEE Conference on ICT Solutions for eHealth</i>", June, July 2022, Rhodes Island, Greece
 
 0. [AI4Health 2022](https://www.ai4health.icar.cnr.it/) - "<i>International Workshop on Artificial Intelligence for Health</i>", May 2022, Taormina, Messina, Italy
