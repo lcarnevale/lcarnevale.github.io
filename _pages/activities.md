@@ -10,6 +10,8 @@ The following calls are open and wait for your submission. If you have any quest
 
 - [Paper Submission: February 28, 2023 - Artificial Intelligence on the Edge, Information, MDPI](https://www.mdpi.com/journal/information/special_issues/AI_on_the_edge)
 
+- [Paper Submission: March 31, 2023 - Digital Healthcare Leveraging Edge Computing and the Internet of Things, Sensors, MDPI](https://www.mdpi.com/journal/sensors/special_issues/digihealth_IoT)
+
 #### Conference and Workshop(s) (Co-)Chair
 0. [MobiCASE 2022](https://mobicase.eai-conferences.org/2022) - "<i>13th EAI International Conference on Mobile Computing, Applications and Services</i>", November 2022, Messina, Italy
 
@@ -36,6 +38,6 @@ The following calls are open and wait for your submission. If you have any quest
 0. [Cloud2Things 2022](https://cloud2things2022.netsons.org) - "<i>2nd Workshop on Cloud-to-Things continuum: towards the convergence of IoT, Edge and Cloud Computing</i>", May 2022, Taormina, Messina, Italy [[certificate](https://drive.google.com/file/d/1tR7AiEKAzVlR0Z5y8EHwjZcD36Pztheb/view?usp=sharing)]
 {: reversed="reversed"}
 
-#### Member of Editorial Board, Guest Editor
-0. [Digital Healthcare Leveraging Edge Computing and the Internet of Things, Sensors, MDPI](https://www.mdpi.com/journal/sensors/special_issues/digihealth_IoT)
-{: reversed="reversed"}
+<!-- #### Member of Editorial Board, Guest Editor -->
+<!-- 0. [Digital Healthcare Leveraging Edge Computing and the Internet of Things, Sensors, MDPI](https://www.mdpi.com/journal/sensors/special_issues/digihealth_IoT) -->
+<!-- {: reversed="reversed"} -->
