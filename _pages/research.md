@@ -11,4 +11,4 @@ My research interests fall in two macro-areas of computer science and engineerin
 - algorithms and optimization
 
 Focuses I have interested on are:
-- [Edge Intelligence](https://lorenzocarnevale.com/research/edge-ai)
+- [Edge Intelligence]({{site.baseurl}}/research/edge-ai)
