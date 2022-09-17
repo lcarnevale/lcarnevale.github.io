@@ -12,6 +12,10 @@ The following calls are open and wait for your submission. If you have any quest
 
 - [Paper Submission: March 31, 2023 - Digital Healthcare Leveraging Edge Computing and the Internet of Things, Sensors, MDPI](https://www.mdpi.com/journal/sensors/special_issues/digihealth_IoT)
 
+#### Awards
+0. Best Student Paper Award - Christian Sicari and Lorenzo Carnevale and Antonino Galletta and Massimo Villari. "*OpenWolf: a Serverless Workflow Engine for Native Cloud-Edge Continuum*". The 7th IEEE Cyber Science and Technology Congress (CyberSciTech)", September 2022, Falerna (CZ), Italy
+{: reversed="reversed"}
+
 #### Conference and Workshop(s) (Co-)Chair
 0. [MobiCASE 2022](https://mobicase.eai-conferences.org/2022) - "<i>13th EAI International Conference on Mobile Computing, Applications and Services</i>", November 2022, Messina, Italy
 
