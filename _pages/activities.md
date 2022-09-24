@@ -31,7 +31,9 @@ The following calls are open and wait for your submission. If you have any quest
 {: reversed="reversed"}
 
 #### Program Committee Membership
-0. [IHSH’2022](https://ihsh2022.uqar.ca/) - "<i>The 2022 International Conference on Human-centric Smart environments for Health and well-being</i>", October 2022, Lévis, Canada
+0. [CCNC 2023](https://ccnc2023.ieee-ccnc.org/) - "<i>IEEE Consumer Communications & Networking Conference</i>", January 2023, Las Vegas, USA
+
+0. [IHSH 2022](https://ihsh2022.uqar.ca/) - "<i>The 2022 International Conference on Human-centric Smart environments for Health and well-being</i>", October 2022, Lévis, Canada
 
 0. [CyberSciTech 2022](http://cyber-science.org/2022/cyberscitech/) - "<i>The 7th IEEE Cyber Science and Technology Congress</i>", September 2022, Falerna (CZ), Italy
 
