@@ -1,0 +1,36 @@
+body{
+    background: #ccc;
+  }
+  .flickr{
+    background: #ffffff;
+    width: 36px;
+    height: 36px;
+    border: 2px solid #a7a9ac;
+    border-radius: 50%;
+    position: relative;
+    margin: auto;
+  }
+  
+  .flickr:before{
+    content: " ";
+    width: 10px;
+    height: 10px;
+    background: #0063dc;
+    position: absolute;
+    border-radius: 50%;
+    top: 50%;
+    margin-top: -5px;
+    left: 20%;
+  }
+  
+  .flickr:after{
+    content: " ";
+    width: 10px;
+    height: 10px;
+    background: #ff0084;
+    position: absolute;
+    border-radius: 50%;
+    top: 50%;
+    margin-top: -5px;
+    right: 20%;
+  }
