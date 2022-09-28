@@ -31,6 +31,7 @@
 }
 
 .rounded-social-buttons .fa-twitter,
+.fa-flickr,
 .fa-facebook-f,
 .fa-linkedin,
 .fa-github,
@@ -125,6 +126,16 @@
 }
 
 .rounded-social-buttons .social-button.scopus:hover, .rounded-social-buttons .social-button.scopus:focus {
+  color: #e2861e;
+  background: #fefefe;
+  border-color: #e2861e;
+}
+
+.rounded-social-buttons .social-button.scopus {
+  background: #e2861e;
+}
+
+.rounded-social-buttons .social-button.flickr:hover, .rounded-social-buttons .social-button.scopus:focus {
   color: #e2861e;
   background: #fefefe;
   border-color: #e2861e;
