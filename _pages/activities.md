@@ -17,6 +17,8 @@ The following calls are open and wait for your submission. If you have any quest
 {: reversed="reversed"}
 
 #### Conference and Workshop(s) (Co-)Chair
+0. [CCGrid 2023](http://cds.iisc.ac.in/faculty/simmhan/ccgrid2023//) - "<i>23rd International Symposium on Cluster, Cloud and Internet Computing</i>", May 2023, Bangalore, India
+
 0. [MobiCASE 2022](https://mobicase.eai-conferences.org/2022) - "<i>13th EAI International Conference on Mobile Computing, Applications and Services</i>", November 2022, Messina, Italy
 
 0. [DistInSys 2022](https://fcrlab.unime.it/calls/distinsys2022) - "<i>2nd International Workshop on Distributed Intelligent Systems</i>", June 2022, Rhodes, Greece
