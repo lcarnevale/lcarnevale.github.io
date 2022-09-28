@@ -62,6 +62,15 @@
     </a>
     {%- endif -%}
 
+    {%- if site.flickr -%}
+    <a title="{{ _locale_string_follow | replace: '[NAME]', 'Flickr' }}"
+    class="social-button flickr"
+    href="https://www.flickr.com/photos/{{ site.flickr }}" itemprop="sameAs"
+    target="_blank">
+    <i class="fab fa-flickr"></i>
+    </a>
+    {%- endif -%}
+
     {%- if site.twitter -%}
     <a title="{{ _locale_string_follow | replace: '[NAME]', 'Twitter' }}"
     class="social-button twitter"
@@ -71,13 +80,6 @@
     </a>
     {%- endif -%}
 
-    {%- if site.twitter -%}
-    <a title="{{ _locale_string_follow | replace: '[NAME]', 'Flickr' }}"
-    class="social-button flickr"
-    href="https://www.flickr.com/photos/{{ site.flickr }}" itemprop="sameAs"
-    target="_blank">
-    <i class="fab fa-flickr"></i>
-    </a>
-    {%- endif -%}
+    
 
 </div>
