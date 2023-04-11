@@ -6,7 +6,7 @@ published: true
 ---
 
 ## Research
-My research interests fall in two macro-areas of computer science and engineering:
+My research interests fall in three macro-areas of computer science and engineering:
 - distributed systems
 - intelligent and autonomous systems
 - algorithms and optimization
