@@ -24,28 +24,28 @@ The following calls are open and wait for your submission. If you have any quest
 0. [Frontiers in the Internet of Things](https://www.frontiersin.org/journals/the-internet-of-things/sections/iot-enabling-technologies), section <i>IoT Enabling Technologies</i>
 {: reversed="reversed"}
 
-#### Conference and Workshop(s) * (Co-)Chair
-0. [UCC 2023](https://ucc-conference.org/) - "<i>16th IEEE/ACM International Conference on Utility and Cloud Computing</i>", Dec 2023, Taormina, Italy
+#### Conference and Workshops * (Co-)Chair
+0. [UCC 2023](https://ucc-conference.org/) - "<i>16th IEEE/ACM International Conference on Utility and Cloud Computing</i>", Dec 2023, Taormina, Italy - Program Co-Chair
 
-0. [PICom 2023](https://icnetlab.org/cyber-science2023/picom/index.html) - "<i>21st IEEE International Conference on Pervasive Intelligence and Computing</i>", Nov 2023, Abu Dhabi, UAE
+0. [PICom 2023](https://icnetlab.org/cyber-science2023/picom/index.html) - "<i>21st IEEE International Conference on Pervasive Intelligence and Computing</i>", Nov 2023, Abu Dhabi, UAE - Tracks Co-Chair
 
-0. [DistInSys 2023](https://fcrlab.unime.it/calls/distinsys2023) - "<i>3rd International Workshop on Distributed Intelligent Systems</i>", July 2023, Tunis, Tunisia
+0. [DistInSys 2023](https://fcrlab.unime.it/calls/distinsys2023) - "<i>3rd International Workshop on Distributed Intelligent Systems</i>", July 2023, Tunis, Tunisia - Program Co-Chair
 
-0. [CCGrid 2023](https://ccgrid2023.iisc.ac.in/) - "<i>23rd International Symposium on Cluster, Cloud and Internet Computing</i>", May 2023, Bangalore, India
+0. [CCGrid 2023](https://ccgrid2023.iisc.ac.in/) - "<i>23rd International Symposium on Cluster, Cloud and Internet Computing</i>", May 2023, Bangalore, India - Proceedings Co-Chair
 
-0. [MobiCASE 2022](https://mobicase.eai-conferences.org/2022) - "<i>13th EAI International Conference on Mobile Computing, Applications and Services</i>", November 2022, Messina, Italy
+0. [MobiCASE 2022](https://mobicase.eai-conferences.org/2022) - "<i>13th EAI International Conference on Mobile Computing, Applications and Services</i>", November 2022, Messina, Italy - Workshops Co-Chair
 
-0. [DistInSys 2022](https://fcrlab.unime.it/calls/distinsys2022) - "<i>2nd International Workshop on Distributed Intelligent Systems</i>", June 2022, Rhodes, Greece
+0. [DistInSys 2022](https://fcrlab.unime.it/calls/distinsys2022) - "<i>2nd International Workshop on Distributed Intelligent Systems</i>", June 2022, Rhodes, Greece - Program Co-Chair
 
-0. [CCGrid 2022](https://fcrlab.unime.it/ccgrid22) - "<i>22nd IEEE International Symposium on Cluster, Cloud and Internet Computing</i>", May 2022, Taormina, Messina, Italy
+0. [CCGrid 2022](https://fcrlab.unime.it/ccgrid22) - "<i>22nd IEEE International Symposium on Cluster, Cloud and Internet Computing</i>", May 2022, Taormina, Messina, Italy - Financial Chair
 
-0. [AI4Health 2022](https://www.ai4health.icar.cnr.it/ai4health2022/index.html) - "<i>International Workshop on Artificial Intelligence for Health</i>", May 2022, Taormina, Messina, Italy
+0. [AI4Health 2022](https://www.ai4health.icar.cnr.it/ai4health2022/index.html) - "<i>International Workshop on Artificial Intelligence for Health</i>", May 2022, Taormina, Messina, Italy - Program Co-Chair
 
-0. [MrICHE 2021](https://fcrlab.unime.it/calls/mriche2021) - "<i>1st IEEE International Workshop on Mixed Reality Implications on Cultural Heritage Experience</i>", October 2021, Bari, Italy
+0. [MrICHE 2021](https://fcrlab.unime.it/calls/mriche2021) - "<i>1st IEEE International Workshop on Mixed Reality Implications on Cultural Heritage Experience</i>", October 2021, Bari, Italy - Program Co-Chair
 
-0. [DistInSys 2021](https://fcrlab.unime.it/calls/distinsys2021) - "<i>1st International Workshop on Distributed and Intelligent Systems</i>", September 2021, Athens, Greece
+0. [DistInSys 2021](https://fcrlab.unime.it/calls/distinsys2021) - "<i>1st International Workshop on Distributed and Intelligent Systems</i>", September 2021, Athens, Greece - Program Co-Chair
 
-0. [ICTS4eHealth 2021](https://www.icts4ehealth.icar.cnr.it/ICTS4eHealth2021/index.html) - "<i>1st IEEE Conference on ICT Solutions for eHealth</i>", September 2021, Athens, Greece
+0. [ICTS4eHealth 2021](https://www.icts4ehealth.icar.cnr.it/ICTS4eHealth2021/index.html) - "<i>1st IEEE Conference on ICT Solutions for eHealth</i>", September 2021, Athens, Greece - Publicity Chair
 {: reversed="reversed"}
 
 #### Program Committee Membership
