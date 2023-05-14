@@ -76,4 +76,6 @@ The following calls are open and wait for your submission. If you have any quest
 0. [ICTS4eHealth 2020](https://icts4ehealth.icar.cnr.it/ICTS4eHealth2020/index.html) - "<i>5th Edition of the IEEE Workshop on ICT Solutions for eHealth</i>", July 2020, Rennes, Francia
 
 0. [IPDCA 2020](https://sites.google.com/view/ipdca2020) - "<i>9th International Conference on Parallel, Distributed Computing and Applications</i>", June 2020, Helsinki, Finland
+
+0. [ICTS4eHealth 2019](https://icts4ehealth.icar.cnr.it/ICTS4eHealth2019/index.html) - "<i>4th edition of the IEEE Workshop on ICT Solution for eHealth</i>", June 2019, Barcelona, Spain
 {: reversed="reversed"}
