@@ -80,4 +80,6 @@ The following calls are open and wait for your submission. If you have any quest
 0. [ICTS4eHealth 2019](https://icts4ehealth.icar.cnr.it/ICTS4eHealth2019/index.html) - "<i>4th edition of the IEEE Workshop on ICT Solution for eHealth</i>", June 2019, Barcelona, Spain
 
 0. [TeC4C 2018](http://tec4c2018.netsons.org/) - "<i>1st International Workshop on Technology Convergence for Smart Cities</i>", October 2019, Philadelphia, Pennsylvania, USA
+
+0. [FiCloud 2018](http://www.ficloud.org/2018) - "<i>IEEE 6th International Conference on Future Internet of Things and Cloud</i>", August 2019, Barcelona, Spain
 {: reversed="reversed"}
