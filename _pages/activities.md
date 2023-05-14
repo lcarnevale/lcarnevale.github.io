@@ -51,6 +51,8 @@ The following calls are open and wait for your submission. If you have any quest
 {: reversed="reversed"}
 
 #### Program Committee Membership
+0. [EWSN 2023](https://events.dimes.unical.it/ewsn2023) - "<i>International Conference on Embedded Wireless Systems and Networks</i>", September 2023, Rende, Italy
+
 0. [MetaCom 2023](https://www.ieee-metacom.org/2023/) - "<i>IEEE International Conference on Metaverse Computing, Networking and Applications</i>", June 2023, Kyoto, Japan
 
 0. [CCNC 2023](https://ccnc2023.ieee-ccnc.org/) - "<i>IEEE Consumer Communications & Networking Conference</i>", January 2023, Las Vegas, USA
