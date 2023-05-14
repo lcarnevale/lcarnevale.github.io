@@ -70,4 +70,6 @@ The following calls are open and wait for your submission. If you have any quest
 0. [Cloud2Things 2022](https://cloud2things2022.netsons.org) - "<i>2nd Workshop on Cloud-to-Things continuum: towards the convergence of IoT, Edge and Cloud Computing</i>", May 2022, Taormina, Messina, Italy [[certificate](https://drive.google.com/file/d/1tR7AiEKAzVlR0Z5y8EHwjZcD36Pztheb/view?usp=sharing)]
 
 0. [RoboCom 2022](https://robocom2022.nws.cs.unibo.it/) - "<i>2nd IEEE International Workshop on Communication and Networking for Swarms Robotics</i>", January 2022, Virtual Conference
+
+0. [Cloud2Things 2021](https://cloud2things2021.netsons.org/) - "<i>1st Workshop on Cloud-to-Things continuum: towards the convergence of IoT, Edge and Cloud Computing</i>", May, 2021, Melbourne, Australia
 {: reversed="reversed"}
