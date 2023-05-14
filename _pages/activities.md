@@ -74,4 +74,6 @@ The following calls are open and wait for your submission. If you have any quest
 0. [Cloud2Things 2021](https://cloud2things2021.netsons.org/) - "<i>1st Workshop on Cloud-to-Things continuum: towards the convergence of IoT, Edge and Cloud Computing</i>", May, 2021, Melbourne, Australia
 
 0. [ICTS4eHealth 2020](https://icts4ehealth.icar.cnr.it/ICTS4eHealth2020/index.html) - "<i>5th Edition of the IEEE Workshop on ICT Solutions for eHealth</i>", July 2020, Rennes, Francia
+
+0. [IPDCA 2020](https://sites.google.com/view/ipdca2020) - "<i>9th International Conference on Parallel, Distributed Computing and Applications</i>", June 2020, Helsinki, Finland
 {: reversed="reversed"}
