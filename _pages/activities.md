@@ -51,6 +51,8 @@ The following calls are open and wait for your submission. If you have any quest
 {: reversed="reversed"}
 
 #### Program Committee Membership
+0. [MetaCom 2023](https://www.ieee-metacom.org/2023/) - "<i>IEEE International Conference on Metaverse Computing, Networking and Applications</i>", June 2023, Kyoto, Japan
+
 0. [CCNC 2023](https://ccnc2023.ieee-ccnc.org/) - "<i>IEEE Consumer Communications & Networking Conference</i>", January 2023, Las Vegas, USA
 
 0. [IHSH 2022](https://ihsh2022.uqar.ca/) - "<i>The 2022 International Conference on Human-centric Smart environments for Health and well-being</i>", October 2022, Lévis, Canada
@@ -63,7 +65,3 @@ The following calls are open and wait for your submission. If you have any quest
 
 0. [Cloud2Things 2022](https://cloud2things2022.netsons.org) - "<i>2nd Workshop on Cloud-to-Things continuum: towards the convergence of IoT, Edge and Cloud Computing</i>", May 2022, Taormina, Messina, Italy [[certificate](https://drive.google.com/file/d/1tR7AiEKAzVlR0Z5y8EHwjZcD36Pztheb/view?usp=sharing)]
 {: reversed="reversed"}
-
-<!-- #### Member of Editorial Board, Guest Editor -->
-<!-- 0. [Digital Healthcare Leveraging Edge Computing and the Internet of Things, Sensors, MDPI](https://www.mdpi.com/journal/sensors/special_issues/digihealth_IoT) -->
-<!-- {: reversed="reversed"} -->
