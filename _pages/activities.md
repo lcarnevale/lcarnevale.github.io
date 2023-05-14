@@ -24,10 +24,12 @@ The following calls are open and wait for your submission. If you have any quest
 0. [Frontiers in the Internet of Things](https://www.frontiersin.org/journals/the-internet-of-things/sections/iot-enabling-technologies), section <i>IoT Enabling Technologies</i>
 {: reversed="reversed"}
 
-#### Conference and Workshops * (Co-)Chair
+#### Conference and Workshops (Co-)Chair
 0. [UCC 2023](https://ucc-conference.org/) - "<i>16th IEEE/ACM International Conference on Utility and Cloud Computing</i>", Dec 2023, Taormina, Italy - Program Co-Chair
 
 0. [PICom 2023](https://icnetlab.org/cyber-science2023/picom/index.html) - "<i>21st IEEE International Conference on Pervasive Intelligence and Computing</i>", Nov 2023, Abu Dhabi, UAE - Tracks Co-Chair
+
+0. [AI4Health 2023](https://www.ai4health.icar.cnr.it/) - "<i>International Workshop on Artificial Intelligence for Health</i>", October 2023, Taormina, Messina, Italy - Program Co-Chair
 
 0. [DistInSys 2023](https://fcrlab.unime.it/calls/distinsys2023) - "<i>3rd International Workshop on Distributed Intelligent Systems</i>", July 2023, Tunis, Tunisia - Program Co-Chair
 
