@@ -65,7 +65,7 @@ The following calls are open and wait for your submission. If you have any quest
 
 0. [ICTS4eHealth 2022](https://icts4ehealth.icar.cnr.it/) - "<i>2nd Edition of the IEEE Conference on ICT Solutions for eHealth</i>", June, July 2022, Rhodes Island, Greece
 
-0. [AI4Health 2022](https://www.ai4health.icar.cnr.it/) - "<i>International Workshop on Artificial Intelligence for Health</i>", May 2022, Taormina, Messina, Italy
-
 0. [Cloud2Things 2022](https://cloud2things2022.netsons.org) - "<i>2nd Workshop on Cloud-to-Things continuum: towards the convergence of IoT, Edge and Cloud Computing</i>", May 2022, Taormina, Messina, Italy [[certificate](https://drive.google.com/file/d/1tR7AiEKAzVlR0Z5y8EHwjZcD36Pztheb/view?usp=sharing)]
+
+0. [RoboCom 2022](https://robocom2022.nws.cs.unibo.it/) - "<i>2nd IEEE International Workshop on Communication and Networking for Swarms Robotics</i>", January 2022, Virtual Conference
 {: reversed="reversed"}
