@@ -27,6 +27,8 @@ The following calls are open and wait for your submission. If you have any quest
 #### Conference and Workshop(s) * (Co-)Chair
 0. [UCC 2023](https://ucc-conference.org/) - "<i>16th IEEE/ACM International Conference on Utility and Cloud Computing</i>", Dec 2023, Taormina, Italy
 
+0. [PICom 2023](https://icnetlab.org/cyber-science2023/picom/index.html) - "<i>21st IEEE International Conference on Pervasive Intelligence and Computing</i>", Nov 2023, Abu Dhabi, UAE
+
 0. [DistInSys 2023](https://fcrlab.unime.it/calls/distinsys2023) - "<i>3rd International Workshop on Distributed Intelligent Systems</i>", July 2023, Tunis, Tunisia
 
 0. [CCGrid 2023](https://ccgrid2023.iisc.ac.in/) - "<i>23rd International Symposium on Cluster, Cloud and Internet Computing</i>", May 2023, Bangalore, India
