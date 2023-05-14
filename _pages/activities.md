@@ -55,6 +55,8 @@ The following calls are open and wait for your submission. If you have any quest
 
 0. [MetaCom 2023](https://www.ieee-metacom.org/2023/) - "<i>IEEE International Conference on Metaverse Computing, Networking and Applications</i>", June 2023, Kyoto, Japan
 
+0. [Cloud2Things 2023](https://cloud2things.netsons.org/2023/index.html) - "<i>3rd Workshop on From Cloud to Things: harnessing pervasive data in the Computing Continuum</i>", March 2023, Atlanta, USA
+
 0. [CCNC 2023](https://ccnc2023.ieee-ccnc.org/) - "<i>IEEE Consumer Communications & Networking Conference</i>", January 2023, Las Vegas, USA
 
 0. [IHSH 2022](https://ihsh2022.uqar.ca/) - "<i>The 2022 International Conference on Human-centric Smart environments for Health and well-being</i>", October 2022, Lévis, Canada
