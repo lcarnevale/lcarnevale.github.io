@@ -8,7 +8,7 @@ published: true
 #### Call for Papers
 The following calls are open and wait for your submission. If you have any question, please contact me using the email in the footer.
 
-- [Paper Submission: February 28, 2023 - Artificial Intelligence on the Edge, Information, MDPI](https://www.mdpi.com/journal/information/special_issues/AI_on_the_edge)
+- [Paper Submission: October 30, 2023 - Artificial Intelligence on the Edge, Information, MDPI](https://www.mdpi.com/journal/information/special_issues/AI_on_the_edge)
 
 - [Paper Submission: March 31, 2023 - Digital Healthcare Leveraging Edge Computing and the Internet of Things, Sensors, MDPI](https://www.mdpi.com/journal/sensors/special_issues/digihealth_IoT)
 
