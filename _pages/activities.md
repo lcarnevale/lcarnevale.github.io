@@ -10,8 +10,6 @@ The following calls are open and wait for your submission. If you have any quest
 
 - [Paper Submission: October 30, 2023 - Artificial Intelligence on the Edge, Information, MDPI](https://www.mdpi.com/journal/information/special_issues/AI_on_the_edge)
 
-- [Paper Submission: March 31, 2023 - Digital Healthcare Leveraging Edge Computing and the Internet of Things, Sensors, MDPI](https://www.mdpi.com/journal/sensors/special_issues/digihealth_IoT)
-
 - [Paper Submission: April 1, 2023 - New achievements of precision medicine with artificial intelligence, Biomedical Signal Processing and Control, Elsevier](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control/about/call-for-papers)
 
 #### Awards
@@ -22,6 +20,10 @@ The following calls are open and wait for your submission. If you have any quest
 0. [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai/sections/smart-sensor-networks-and-autonomy), section <i>Smart Sensor Networks and Autonomy</i>
 
 0. [Frontiers in the Internet of Things](https://www.frontiersin.org/journals/the-internet-of-things/sections/iot-enabling-technologies), section <i>IoT Enabling Technologies</i>
+{: reversed="reversed"}
+
+#### Guest Editor
+0. [Digital Healthcare Leveraging Edge Computing and the Internet of Things, Sensors, MDPI](https://www.mdpi.com/journal/sensors/special_issues/digihealth_IoT)
 {: reversed="reversed"}
 
 #### Conference and Workshops (Co-)Chair
