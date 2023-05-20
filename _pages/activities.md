@@ -10,7 +10,7 @@ The following calls are open and wait for your submission. If you have any quest
 
 - [Paper Submission: October 30, 2023 - Artificial Intelligence on the Edge, Information, MDPI](https://www.mdpi.com/journal/information/special_issues/AI_on_the_edge)
 
-- [Paper Submission: April 1, 2023 - New achievements of precision medicine with artificial intelligence, Biomedical Signal Processing and Control, Elsevier](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control/about/call-for-papers)
+- [Paper Submission: May 31, 2023 - New achievements of precision medicine with artificial intelligence, Biomedical Signal Processing and Control, Elsevier](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control/about/call-for-papers#special-issue-on-the-new-achievements-of-precision-medicine-with-artificial-intelligence)
 
 #### Awards
 0. Best Student Paper Award - Christian Sicari and Lorenzo Carnevale and Antonino Galletta and Massimo Villari. "*OpenWolf: a Serverless Workflow Engine for Native Cloud-Edge Continuum*". The 7th IEEE Cyber Science and Technology Congress (CyberSciTech)", September 2022, Falerna (CZ), Italy
