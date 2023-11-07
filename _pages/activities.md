@@ -5,11 +5,6 @@ permalink: /activities/
 published: true
 ---
 
-#### Active Call for Papers
-The following calls are open and wait for your submission. If you have any question, please contact me using the email in the footer.
-
-- [Paper Submission: October 30, 2023 - Artificial Intelligence on the Edge, Information, MDPI](https://www.mdpi.com/journal/information/special_issues/AI_on_the_edge)
-
 #### Awards
 0. Best Student Paper Award - Christian Sicari and Lorenzo Carnevale and Antonino Galletta and Massimo Villari. "*OpenWolf: a Serverless Workflow Engine for Native Cloud-Edge Continuum*". The 7th IEEE Cyber Science and Technology Congress (CyberSciTech)", September 2022, Falerna (CZ), Italy
 {: reversed="reversed"}
