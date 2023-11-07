@@ -5,12 +5,10 @@ permalink: /activities/
 published: true
 ---
 
-#### Call for Papers
+#### Active Call for Papers
 The following calls are open and wait for your submission. If you have any question, please contact me using the email in the footer.
 
 - [Paper Submission: October 30, 2023 - Artificial Intelligence on the Edge, Information, MDPI](https://www.mdpi.com/journal/information/special_issues/AI_on_the_edge)
-
-- [Paper Submission: May 31, 2023 - New achievements of precision medicine with artificial intelligence, Biomedical Signal Processing and Control, Elsevier](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control/about/call-for-papers#special-issue-on-the-new-achievements-of-precision-medicine-with-artificial-intelligence)
 
 #### Awards
 0. Best Student Paper Award - Christian Sicari and Lorenzo Carnevale and Antonino Galletta and Massimo Villari. "*OpenWolf: a Serverless Workflow Engine for Native Cloud-Edge Continuum*". The 7th IEEE Cyber Science and Technology Congress (CyberSciTech)", September 2022, Falerna (CZ), Italy
@@ -23,13 +21,19 @@ The following calls are open and wait for your submission. If you have any quest
 {: reversed="reversed"}
 
 #### Guest Editor
+0. [New achievements of precision medicine with artificial intelligence, Biomedical Signal Processing and Control, Elsevier](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control/about/call-for-papers#special-issue-on-the-new-achievements-of-precision-medicine-with-artificial-intelligence)
+
 0. [Digital Healthcare Leveraging Edge Computing and the Internet of Things, Sensors, MDPI](https://www.mdpi.com/journal/sensors/special_issues/digihealth_IoT)
 {: reversed="reversed"}
 
 #### Conference and Workshops (Co-)Chair
+0. [CCGrid 2024]() - "<i>24th International Symposium on Cluster, Cloud and Internet Computing</i>", May 2024, Philadelphia, USA - Track Co-Chair
+
+0. [BigNDA 2023](https://fcrlab.unime.it/calls/bignda2023) - "<i>Big Nature data analysis: methods and applications</i>", December 2023, Taormina, Italy - Program Co-Chair
+
 0. [UCC 2023](https://ucc-conference.org/) - "<i>16th IEEE/ACM International Conference on Utility and Cloud Computing</i>", December 2023, Taormina, Italy - Program Co-Chair
 
-0. [PICom 2023](https://icnetlab.org/cyber-science2023/picom/index.html) - "<i>21st IEEE International Conference on Pervasive Intelligence and Computing</i>", November 2023, Abu Dhabi, UAE - Tracks Co-Chair
+0. [PICom 2023](https://icnetlab.org/cyber-science2023/picom/index.html) - "<i>21st IEEE International Conference on Pervasive Intelligence and Computing</i>", November 2023, Abu Dhabi, UAE - Track Co-Chair
 
 0. [AI4Health 2023](https://www.ai4health.icar.cnr.it/) - "<i>International Workshop on Artificial Intelligence for Health</i>", October 2023, Taormina, Messina, Italy - Program Co-Chair
 
