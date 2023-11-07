@@ -15,6 +15,8 @@ The following calls are open and wait for your submission. If you have any quest
 {: reversed="reversed"}
 
 #### Associate Editor
+0. [MDPI Machine Learning and Knowledge Extraction](https://www.mdpi.com/journal/make)
+
 0. [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai/sections/smart-sensor-networks-and-autonomy), section <i>Smart Sensor Networks and Autonomy</i>
 
 0. [Frontiers in the Internet of Things](https://www.frontiersin.org/journals/the-internet-of-things/sections/iot-enabling-technologies), section <i>IoT Enabling Technologies</i>
