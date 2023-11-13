@@ -12,7 +12,7 @@ As enhanced devices at the edge of the network exploit artificial intelligence, 
 
 #### Open Calls
 
-- [Paper Submission: October 30, 2023 - Artificial Intelligence on the Edge, Information, MDPI](https://www.mdpi.com/journal/information/special_issues/AI_on_the_edge)
+- [Paper Submission: July 31, 2024 - Artificial Intelligence on the Edge, Information, MDPI](https://www.mdpi.com/journal/information/special_issues/AI_on_the_edge)
 
 #### Short Biography
 I am an assistant professor in the <a href="https://fcrlab.unime.it/">Future Computing Research Laboratory</a> at the Department of Mathematics, Computer Science, Physics and Hearth Sciences of the <a href="https://international.unime.it/">University of Messina</a>. I was research fellow in the same university and I earned my Ph.D. in the Department of Engineering at <a href="https://www.unirc.it/en/">University of Reggio Calabria</a> in May 2020 under the supervision of <a href="https://www.scopus.com/authid/detail.uri?authorId=12645423500">Massimo Villari</a>.
