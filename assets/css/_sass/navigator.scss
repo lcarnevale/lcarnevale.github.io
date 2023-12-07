@@ -1,8 +1,23 @@
+/* NAVIGATION BAR -------------------------------------------------- */
 
 
-/* NAVIGATION BAR
- -------------------------------------------------- */
- #navigation {
+
+nav ul {
+    list-style-type: none;
+}
+nav li {
+    line-height: 30px;
+}
+nav a {
+    text-decoration: none;
+}
+nav li.active a {
+    color: #ffffff;
+}
+
+
+
+#navigation {
     min-height: 70px !important;
     padding-top: 10px;
 }
