@@ -10,11 +10,15 @@ published: true
 {: reversed="reversed"}
 
 #### Associate Editor
-0. [MDPI Machine Learning and Knowledge Extraction](https://www.mdpi.com/journal/make)
+0. [MDPI Machine Learning and Knowledge Extraction](https://www.mdpi.com/journal/make) - From 2023 to now
 
-0. [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai/sections/smart-sensor-networks-and-autonomy), section <i>Smart Sensor Networks and Autonomy</i>
+0. [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai/sections/computational-intelligence-in-robotics), section <i>Computational Intelligence in Robotics</i> - From 2023 to now
 
 0. [Frontiers in the Internet of Things](https://www.frontiersin.org/journals/the-internet-of-things/sections/iot-enabling-technologies), section <i>IoT Enabling Technologies</i>
+{: reversed="reversed"}
+
+#### Past Associate Editor
+0. [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai/sections/smart-sensor-networks-and-autonomy), section <i>Smart Sensor Networks and Autonomy</i> - From 2022 to 2023
 {: reversed="reversed"}
 
 #### Guest Editor
