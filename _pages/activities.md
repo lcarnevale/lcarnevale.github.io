@@ -56,6 +56,8 @@ published: true
 {: reversed="reversed"}
 
 #### Program Committee Membership
+0. [HC@AIxIA 2023](https://sites.google.com/unical.it/hcaixia2023) - "<i>2nd AIxIA Workshop on Artificial Intelligence For Healthcare</i>", November 2023, Rome, Italy
+
 0. [EWSN 2023](https://events.dimes.unical.it/ewsn2023) - "<i>International Conference on Embedded Wireless Systems and Networks</i>", September 2023, Rende, Italy
 
 0. [MetaCom 2023](https://www.ieee-metacom.org/2023/) - "<i>IEEE International Conference on Metaverse Computing, Networking and Applications</i>", June 2023, Kyoto, Japan
