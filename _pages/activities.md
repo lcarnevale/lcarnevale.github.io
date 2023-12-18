@@ -24,6 +24,8 @@ published: true
 {: reversed="reversed"}
 
 #### Conference and Workshops (Co-)Chair
+0. [UCC 2024]() - "<i>17th IEEE/ACM International Conference on Utility and Cloud Computing</i>", Dec 2024, Sharjah, UAE - Artifact Evaluation Co-Chair
+
 0. [CCGrid 2024](https://2024.ccgrid-conference.org/) - "<i>24th International Symposium on Cluster, Cloud and Internet Computing</i>", May 2024, Philadelphia, USA - Track Co-Chair
 
 0. [BigNDA 2023](https://fcrlab.unime.it/calls/bignda2023) - "<i>Big Nature data analysis: methods and applications</i>", December 2023, Taormina, Italy - Program Co-Chair
