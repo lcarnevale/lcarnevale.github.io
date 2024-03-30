@@ -12,6 +12,7 @@ published: true
 - **University of Messina**, Informatica [2021 - 2022], [eLearning 2021/2022](https://moodle2.unime.it/course/view.php?id=48069)
 
 ## Thesis Students (Co-)Advisor
+1. [Mark Adrian Gambito](https://www.linkedin.com/in/mark-adrian-gambito-42b79a195/), "*Development of a Virtual Reality Drunk Driving Immersive Experience with Reinforcement Learning Trained Non-Player Characters*", ME 22/23, University of Messina
 1. [Danny De Novi](), "*Implementazione e analisi di algoritmi di Reinforcement Learning nella guida autonoma: confronto tra PPO, DQN e DDQN in environment 2D e 3D*", BS 22/23, University of Messina
 1. [Emanuele Lisi](https://www.linkedin.com/in/emanuele-lisi-724380250), "*Instradamento dei pacchetti con AODV e DSDV in un ambiente simulato con OMNeT++ durante un disastro ambientale*", BS 22/23, University of Messina
 1. [Alex Restuccia](https://www.linkedin.com/in/alex-restuccia), "*Coordinazione di veicoli a guida autonoma in una VANET durante l’attraversamento di un incrocio in un ambiente simulato con Omnet++ e SUMO*", BS 22/23, University of Messina
