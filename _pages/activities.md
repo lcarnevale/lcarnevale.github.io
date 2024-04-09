@@ -30,7 +30,7 @@ published: true
 #### Conference and Workshops (Co-)Chair
 0. [FLTA 2024](https://flta-conference.org/) - "<i>2nd International Conference on Federated Learning Technologies and Applications</i>", Sep 2024, Valencia, Spain - Technical Program Co-Chair
 
-0. [UCC 2024](https://www.uccbdcat2024.org/ucc/) - "<i>17th IEEE/ACM International Conference on Utility and Cloud Computing</i>", Dec 2024, Sharjah, UAE - Artifact Evaluation Co-Chair
+0. [UCC 2024](https://ucc-conference.github.io/UCC2023) - "<i>17th IEEE/ACM International Conference on Utility and Cloud Computing</i>", Dec 2024, Sharjah, UAE - Artifact Evaluation Co-Chair
 
 0. [CCGrid 2024](https://2024.ccgrid-conference.org/) - "<i>24th International Symposium on Cluster, Cloud and Internet Computing</i>", May 2024, Philadelphia, USA - Track Co-Chair
 
