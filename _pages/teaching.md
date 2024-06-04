@@ -6,7 +6,7 @@ published: true
 ---
 
 ## Classes
-- **University of Messina**, MMed, Rischi e opportunità dell'intelligenza artificiale in medicina 2023/2024
+- **University of Messina**, MMed, Rischi e opportunità dell'intelligenza artificiale in medicina 2023/2024, [project](https://unimeit-my.sharepoint.com/:f:/g/personal/lcarnevale_unime_it/EvM_7ESXtZpCrL1DJiHWPloBxZLItHAdBYoslvijZLZ5jw?e=FTM6g9)
 - **University of Messina**, BSc, Algoritmi e Strutture Dati 2023/2024, [eLearning](https://moodle2.unime.it/course/view.php?id=49273) - [git](https://github.com/lcarnevale/algorithms)
 - **University of Messina**, MSc, Bio-Inspired Artificial Intelligence 2023/2024, [eLearning](https://moodle2.unime.it/course/view.php?id=49272)
 - **University of Messina**, BSc, Computer Networks 2023/2024, [eLearning](https://moodle2.unime.it/course/view.php?id=48881) - [git](https://github.com/lcarnevale/computer-networks)
