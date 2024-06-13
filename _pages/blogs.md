@@ -8,6 +8,7 @@ published: true
 ## Blogs
 
 #### 2024
+0. Lorenzo Carnevale. "[A Brief History of Artificial Intelligence](https://medium.com/@lcarnevale/a-brief-history-of-artificial-intelligence-330d01229437)". Medium (May 2024)
 0. Lorenzo Carnevale. "[The Federated Learning Technique for Mitigating the Climate Change](https://tema-project.eu/articles/federated-learning-technique-mitigating-climate-change)". TEMA Project (March 2024)
 {: reversed="reversed"}
 
