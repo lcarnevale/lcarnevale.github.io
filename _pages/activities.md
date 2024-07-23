@@ -10,6 +10,8 @@ published: true
 {: reversed="reversed"}
 
 #### Associate Editor
+0. [Elsevier Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control) - From 2024 to now
+
 0. [MDPI Machine Learning and Knowledge Extraction](https://www.mdpi.com/journal/make) - From 2023 to now
 
 0. [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai/sections/computational-intelligence-in-robotics), section <i>Computational Intelligence in Robotics</i> - From 2023 to now
@@ -62,6 +64,8 @@ published: true
 {: reversed="reversed"}
 
 #### Program Committee Membership
+0. [ICT-DM 2024](https://ict-dm2024.univ-setif.dz) - "<i>9th International Conference on Information and Communication Technologies for Disaster Management</i>", November 2024, Setif, Algeria
+
 0. [HC@AIxIA 2023](https://sites.google.com/unical.it/hcaixia2023) - "<i>2nd AIxIA Workshop on Artificial Intelligence For Healthcare</i>", November 2023, Rome, Italy
 
 0. [EWSN 2023](https://events.dimes.unical.it/ewsn2023) - "<i>International Conference on Embedded Wireless Systems and Networks</i>", September 2023, Rende, Italy
