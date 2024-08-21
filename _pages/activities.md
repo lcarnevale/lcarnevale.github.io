@@ -30,6 +30,8 @@ published: true
 {: reversed="reversed"}
 
 #### Conference and Workshops (Co-)Chair
+0. [DistInSys 2024](https://fcrlab.unime.it/calls/distinsys2024) - "<i>4th International Workshop on Distributed Intelligent Systems</i>", June 2024, Paris, France - Program Co-Chair
+
 0. [FLTA 2024](https://flta-conference.org/) - "<i>2nd International Conference on Federated Learning Technologies and Applications</i>", Sep 2024, Valencia, Spain - Technical Program Co-Chair
 
 0. [UCC 2024](https://ucc-conference.github.io/UCC2023) - "<i>17th IEEE/ACM International Conference on Utility and Cloud Computing</i>", Dec 2024, Sharjah, UAE - Artifact Evaluation Co-Chair
