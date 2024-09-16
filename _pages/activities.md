@@ -24,7 +24,7 @@ published: true
 {: reversed="reversed"}
 
 #### Guest Editor
-0. [New achievements of precision medicine with artificial intelligence, Biomedical Signal Processing and Control, Elsevier](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control/about/call-for-papers#special-issue-on-the-new-achievements-of-precision-medicine-with-artificial-intelligence)
+0. [New achievements of precision medicine with artificial intelligence, Biomedical Signal Processing and Control, Elsevier](https://www.sciencedirect.com/special-issue/10LRN2V7SWQ)
 
 0. [Digital Healthcare Leveraging Edge Computing and the Internet of Things, Sensors, MDPI](https://www.mdpi.com/journal/sensors/special_issues/digihealth_IoT)
 {: reversed="reversed"}
