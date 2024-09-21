@@ -26,6 +26,8 @@ published: true
 #### Guest Editor
 0. [New achievements of precision medicine with artificial intelligence, Biomedical Signal Processing and Control, Elsevier](https://www.sciencedirect.com/special-issue/10LRN2V7SWQ)
 
+0. [Artificial Intelligence on the Edge, Information, MDPI](https://www.mdpi.com/journal/information/special_issues/AI_on_the_edge)
+
 0. [Digital Healthcare Leveraging Edge Computing and the Internet of Things, Sensors, MDPI](https://www.mdpi.com/journal/sensors/special_issues/digihealth_IoT)
 {: reversed="reversed"}
 
