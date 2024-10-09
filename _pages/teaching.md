@@ -5,20 +5,7 @@ permalink: /teaching/
 published: true
 ---
 
-## Classes
-- **University of Messina**, MMed, Rischi e opportunità dell'intelligenza artificiale in medicina 2023/2024, [project](https://unimeit-my.sharepoint.com/:f:/g/personal/lcarnevale_unime_it/EvM_7ESXtZpCrL1DJiHWPloBxZLItHAdBYoslvijZLZ5jw?e=FTM6g9)
-- **University of Messina**, BSc, Algoritmi e Strutture Dati 2023/2024, [eLearning](https://moodle2.unime.it/course/view.php?id=49273) - [git](https://github.com/lcarnevale/algorithms)
-- **University of Messina**, MSc, Bio-Inspired Artificial Intelligence 2023/2024, [eLearning](https://moodle2.unime.it/course/view.php?id=49272)
-- **University of Messina**, BSc, Computer Networks 2023/2024, [eLearning](https://moodle2.unime.it/course/view.php?id=48881) - [git](https://github.com/lcarnevale/computer-networks)
-- **University of Messina**, BSc, Algoritmi e Strutture Dati 2022/2023, [eLearning](https://moodle2.unime.it/course/view.php?id=48641) - [git](https://github.com/lcarnevale/algorithms)
-- **University of Messina**, BSc, Computer Networks 2022/2023, [eLearning](https://moodle2.unime.it/course/view.php?id=48404) - [git](https://github.com/lcarnevale/computer-networks)
-- **University of Messina**, Digital Environment for Food Sector 2022/2023
-- **University of Messina**, BSc, Sistemi di Virtualizzazione 2022/2023, [eLearning](https://moodle2.unime.it/course/view.php?id=48741)
-- **University of Messina**, BSc, Algoritmi e Strutture Dati 2021/2022, [eLearning](https://moodle2.unime.it/course/view.php?id=48154) - [git](https://github.com/lcarnevale/algorithms)
-- **University of Messina**, BSc, Computer Networks 2021/2022, [eLearning](https://moodle2.unime.it/course/view.php?id=48056) - [git](https://github.com/lcarnevale/computer-networks)
-- **University of Messina**, Digital Environment for Food Sector 2021/2022
-- **University of Messina**, BMed, Informatica 2021/2022, [eLearning](https://moodle2.unime.it/course/view.php?id=48069)
-- **University of Messina**, BSc, Sistemi di Virtualizzazione 2021/2022, [eLearning](https://moodle2.unime.it/course/view.php?id=48153)
+<!-- For students who wants to run a thesis, please, read these instructions. -->
 
 ## Thesis Students (Co-)Advisor
 1. [Mark Adrian Gambito](https://www.linkedin.com/in/mark-adrian-gambito-42b79a195/), "*Development of a Virtual Reality Drunk Driving Immersive Experience with Reinforcement Learning Trained Non-Player Characters*", MEng 22/23, University of Messina
@@ -34,3 +21,18 @@ published: true
 1. [Giuseppe Attanasio](https://www.linkedin.com/in/giuseppe-attanasio-8b4907bb/), "*Progettazione e sviluppo di applicazioni Android in ambito videoludico*", BSc 16/17, Università of Messina
 1. [Giuseppe Ferrara](https://www.linkedin.com/in/giuseppe-ferrara), "*Osmotic Computing: Microservizio FFT per IoT*", BEng 15/16, Università of Messina
 {: reversed="reversed"}
+
+## Classes
+- **University of Messina**, MMed, Rischi e opportunità dell'intelligenza artificiale in medicina 2023/2024, [project](https://unimeit-my.sharepoint.com/:f:/g/personal/lcarnevale_unime_it/EvM_7ESXtZpCrL1DJiHWPloBxZLItHAdBYoslvijZLZ5jw?e=FTM6g9)
+- **University of Messina**, BSc, Algoritmi e Strutture Dati 2023/2024, [eLearning](https://moodle2.unime.it/course/view.php?id=49273) - [git](https://github.com/lcarnevale/algorithms)
+- **University of Messina**, MSc, Bio-Inspired Artificial Intelligence 2023/2024, [eLearning](https://moodle2.unime.it/course/view.php?id=49272)
+- **University of Messina**, BSc, Computer Networks 2023/2024, [eLearning](https://moodle2.unime.it/course/view.php?id=48881) - [git](https://github.com/lcarnevale/computer-networks)
+- **University of Messina**, BSc, Algoritmi e Strutture Dati 2022/2023, [eLearning](https://moodle2.unime.it/course/view.php?id=48641) - [git](https://github.com/lcarnevale/algorithms)
+- **University of Messina**, BSc, Computer Networks 2022/2023, [eLearning](https://moodle2.unime.it/course/view.php?id=48404) - [git](https://github.com/lcarnevale/computer-networks)
+- **University of Messina**, Digital Environment for Food Sector 2022/2023
+- **University of Messina**, BSc, Sistemi di Virtualizzazione 2022/2023, [eLearning](https://moodle2.unime.it/course/view.php?id=48741)
+- **University of Messina**, BSc, Algoritmi e Strutture Dati 2021/2022, [eLearning](https://moodle2.unime.it/course/view.php?id=48154) - [git](https://github.com/lcarnevale/algorithms)
+- **University of Messina**, BSc, Computer Networks 2021/2022, [eLearning](https://moodle2.unime.it/course/view.php?id=48056) - [git](https://github.com/lcarnevale/computer-networks)
+- **University of Messina**, Digital Environment for Food Sector 2021/2022
+- **University of Messina**, BMed, Informatica 2021/2022, [eLearning](https://moodle2.unime.it/course/view.php?id=48069)
+- **University of Messina**, BSc, Sistemi di Virtualizzazione 2021/2022, [eLearning](https://moodle2.unime.it/course/view.php?id=48153)
