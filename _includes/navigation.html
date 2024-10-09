@@ -1,12 +1,30 @@
-<div class="links scroll collapse navbar-collapse">
-        <a href="{{site.baseurl}}/">About</a>
-        <!-- <a href="{{site.baseurl}}/research/">Research</a> -->
-        <a href="{{site.baseurl}}/publications/">Publications</a>
-        <a href="{{site.baseurl}}/projects/">Projects</a>
-        <a href="{{site.baseurl}}/activities/">Activities</a>
-        <a href="{{site.baseurl}}/teaching/">Students</a>
-        <a href="{{site.baseurl}}/blog/">Blog</a>
-        <a href="{{site.baseurl}}/venue/">Venue</a>
-        <a href="https://www.linkedin.com/in/lorenzocarnevale/recent-activity/shares/" target="_blank">News</a>
+<div class="container">
+        <a href="{{site.baseurl}}/" class="simple_btn">About</a>
+        <a href="#" class="drop_btn">Research</a>
+        <div class="menuList">
+                <a class="links" href="{{site.baseurl}}/publications/">Publications</a>
+                <a class="links" href="{{site.baseurl}}/projects/">Projects</a>
+                <a class="links" href="{{site.baseurl}}/activities/">Activities</a>
+        </div>
+        <a href="{{site.baseurl}}/teaching/" class="simple_btn">Students</a>
+        <a href="{{site.baseurl}}/blog/" class="simple_btn">Blog</a>
+        <a href="{{site.baseurl}}/venue/" class="simple_btn">Venue</a>
+        <a href="https://www.linkedin.com/in/lorenzocarnevale/recent-activity/shares/" target="_blank" class="simple_btn">News</a>
 </div>
-<br>
+<script>
+        let dropdownBtn = document.querySelector('.drop_btn');
+        let menuContent = document.querySelector('.menuList');
+        dropdownBtn.addEventListener('click', () => {
+           if (menuContent.style.display === "") {
+              menuContent.style.display = "block";
+           } else {
+              menuContent.style.display = "";
+           }
+        })
+        document.addEventListener('click', (e) => {
+           if (!menuContent.contains(e.target) && 
+              !dropdownBtn.contains(e.target)) {
+                 menuContent.style.display = "";
+           }
+        });
+</script>
