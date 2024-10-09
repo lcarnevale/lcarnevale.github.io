@@ -5,7 +5,9 @@ permalink: /publications/
 published: true
 ---
 
-## Journal Papers
+[Journals](#journals) | [Conferences](#conferences) | Book Chapter | [Patents](#patents)
+
+## <a name="journals"></a>Journal Papers
 
 #### 2021
 0. Sandra Schüssler, Julia Zuschnegg, Lucas Paletta, Gerald Lodron, Josef Steiner, Sandra Pansy-Resch, Dimitrios Prodromou, Sebastian Brunsch, Lorenzo Carnevale, Thomas Orgel, Michael Schneeberger, Silvia Russegger, Maria Fellner, Lara Lammer, Magdalena Holter. "*Effects of coach robot pepper versus tablet training on psychosocial and physical outcomes of persons with dementia: A mixed-methods study*". Alzheimer’s & Dementia, vol. 17, issu S11, ISSN: 1552-5279 (December 2021) (doi: [10.1002/alz.053453](https://doi.org/10.1002/alz.053453))
@@ -45,7 +47,7 @@ published: true
 0. Antonino Galletta and Lorenzo Carnevale and Antonio Celesti and Maria Fazio and Massimo Villari. "*A Cloud-Based System for Improving Retention Marketing Loyalty Programs in Industry 4.0: A Study on Big Data Storage Implications*". IEEE Access, IEEE, vol. 6, pp. 5485-5492, ISSN: 2169-3536 (November 2017) (doi: [10.1109/ACCESS.2017.2776400](https://doi.org/10.1109/ACCESS.2017.2776400)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201711-paper-journal-ieee-access.bib)]
 {: reversed="reversed"}
 
-## Conference Papers
+## <a name="conferences"></a>Conference Papers
 
 #### 2022
 0. Lorenzo Carnevale, Alessandro Ortis, Giancarlo Fortino, Sebastiano Battiato, Massimo Villari. "*From Cloud-Edge to Edge-Edge Continuum: the Swarm-Based Edge Computing Systems*". IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf on Pervasive Intelligence and Computing, Intl Conf on Cloud and Big Data Computing, Intl Conf on Cyber Science and Technology Congress (DASC/PiCom/CBDCom/CyberSciTech), Falerna, Italy, September 2022 (doi: [10.1109/DASC/PiCom/CBDCom/Cy55231.2022.9927883](https://doi.org/10.1109/DASC/PiCom/CBDCom/Cy55231.2022.9927883))
@@ -102,7 +104,7 @@ published: true
 0. Fabrizio Celesti and Antonio Celesti and Lorenzo Carnevale and Antonino Galletta and Salvatore Campo and Agata Romano and Placido Bramanti and Massimo Villari. "*Big data analytics in genomics: The point on Deep Learning solutions*". 2017 IEEE Symposium on Computers and Communications (ISCC), Heraklion, Greece, July 2017, pp. 306-309 (doi: [10.1109/ISCC.2017.8024547](https://doi.org/10.1109/ISCC.2017.8024547)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201707-paper-conference-ieee-iscc-2.bib)]
 {: reversed="reversed"}
 
-## Patents
+## <a name="patents"></a>Patents
 
 #### 2020
 0. Massimo Villari and Alina Mihaela Buzachis and Lorenzo Carnevale and Antonino Galletta and Francesco Martella and Claudio Cincotta. "*Sistema di comunicazione che utilizza una rete mesh*". Ministero dello Sviluppo Economico, Direzione  Generale per la Tutela della Priprietà Industriale, Ufficio Italiano Brevetti e Marchi. Identifier: 102018000010500
