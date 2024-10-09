@@ -8,7 +8,7 @@ published: true
 ## Projects
 The following is a not exhaustive list of projects where I have been involved. It includes international and national fund projects, as well as personal (not fund) software projects.
 
-#### Trusted Extremely Precise Mapping and Prediction for Emergency Management (TEMA)
+#### TEMA: Trusted Extremely Precise Mapping and Prediction for Emergency Management
 <img src="https://img.shields.io/badge/project-european-green">
 
 TEMA is a four year long project funded by the European Union. It is part of the Horizon Europe programme, Research and Innovation Action, under the call HORIZON-CL4-2022-DATA-01-01.
@@ -18,7 +18,7 @@ Resources: <a href="https://tema-project.eu">website</a><br>
 EU Funding & Tenders Portal: <a href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43108390/101093003/HORIZON">website</a><br>
 Grant Agreement: 101093003
 
-#### Open source deep learning platform dedicated to Embedded hardware and Europe (NEUROKIT2E)
+#### NEUROKIT2E: Open source deep learning platform dedicated to Embedded hardware and Europe
 <img src="https://img.shields.io/badge/project-european-green">
 
 TEMA is a three year long project funded by the European Union. It is part of the Horizon Europe programme, under the call HORIZON-KDT-JU-2022-2-RIA.
