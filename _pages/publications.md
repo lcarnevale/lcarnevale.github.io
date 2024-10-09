@@ -5,7 +5,7 @@ permalink: /publications/
 published: true
 ---
 
-[Journals](#journals) || [Conferences](#conferences) || Book Chapter || [Patents](#patents)
+[Journals](#journals) -- [Conferences](#conferences) -- Book Chapter -- [Patents](#patents)
 
 ## <a name="journals"></a>Journal Papers
 
