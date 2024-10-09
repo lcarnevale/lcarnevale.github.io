@@ -11,20 +11,3 @@
         <a href="{{site.baseurl}}/venue/" class="simple_btn">Venue</a>
         <a href="https://www.linkedin.com/in/lorenzocarnevale/recent-activity/shares/" target="_blank" class="simple_btn">News</a>
 </div>
-<script>
-        let dropdownBtn = document.querySelector('.drop_btn');
-        let menuContent = document.querySelector('.menuList');
-        dropdownBtn.addEventListener('click', () => {
-           if (menuContent.style.display === "") {
-              menuContent.style.display = "block";
-           } else {
-              menuContent.style.display = "";
-           }
-        })
-        document.addEventListener('click', (e) => {
-           if (!menuContent.contains(e.target) && 
-              !dropdownBtn.contains(e.target)) {
-                 menuContent.style.display = "";
-           }
-        });
-</script>
