@@ -69,7 +69,44 @@ issn: 1746-8094. (doi: [10.1016/j.bspc.2023.105321](https://doi.org/10.1016/j.bs
 
 ## <a name="conferences"></a>Conference Papers
 
+#### 2024
+0. Lorenzo Carnevale, Antonio Filograna, Francesco Arigliano, Roberto Marino, Armando Ruggeri e Maria Fazio. "*Supporting the Natural Disaster Management Distributing Federated Intelligence over the Cloud-Edge Continuum: the TEMA Architecture*". Proceedings of the IEEE/ACM 10th International Conference on Big Data Computing, Applications and Technologies (BDCAT), Taormina, Italy, 2024. (doi: [10.1145/3632366.3632371](https://doi.org/10.1145/3632366.3632371)).
+
+0. Lorenzo Carnevale, Giuseppe Floramo, Donatella Di Fabrizio, Salvatore Arena, Angela Simona Montalto, Pietro Impellizzeri e Carmelo Romeo. "*Computation of the Abdominal Compliance for Pediatric Laparoscopy by Fitting Curve with the Levenberg-Marquardt Algorithm*". Proceedings of the IEEE/ACM 10th International Conference on Big Data Computing, Applications and Technologies (BDCAT), Taormina, Italy, 2024. (doi: [10.1145/3632366.3632376](https://doi.org/10.1145/3632366.3632376)).
+
+0. Mario Colosi, Marco Garofalo, Lorenzo Carnevale, Roberto Marino, Maria Fazio e Massimo Villari. "*EDGEmergency: A Cloud-Edge Platform to Enable Pervasive Computing for Disaster Management*". Proceedings of the IEEE/ACM 10th International Conference on Big Data Computing, Applications and Technologies (BDCAT), Taormina, Italy, 2024. (doi: [10.1145/3632366.3632372](https://doi.org/10.1145/3632366.3632372)).
+
+0. Roberto Marino, Lorenzo Carnevale, Maria Fazio e Massimo Villari. "*Make Federated Learning a Standard in Robotics by Using ROS2*". Proceedings of the IEEE/ACM 10th International Conference on Big Data Computing, Applications and Technologies (BDCAT), Taormina, Italy, 2024. (doi: [10.1145/3632366.3632373](https://doi.org/10.1145/3632366.3632373)).
+
+0. Roberto Marino, Antonino Marino, Domenica De Domenico, Lorenzo Carnevale e Salvatore Magazzù. "*OpenSEM: an Open Framework for Data-Driven Structural and Environmental Monitoring*". Proceedings of the IEEE/ACM 10th International Conference on Big Data Computing, Applications and Technologies (BDCAT), Taormina, Italy, 2024. (doi: [10.1145/3632366.3632377](https://doi.org/10.1145/3632366.3632377)).
+
+0. Serena Sebbio, Gabriele Morabito, Alessio Catalfamo, Lorenzo Carnevale e Maria Fazio. "*Federated Learning on Raspberry Pi 4: A Comprehensive Power Consumption Analysis*". Proceedings of the IEEE/ACM 16th International Conference on Utility and Cloud Computing (UCC). Taormina (Messina), Italy: Association for Computing Machinery, 2024. (doi: [10.
+1145/3603166.3632545](https://doi.org/10.1145/3603166.3632545)).
+{: reversed="reversed"}
+
+#### 2023
+0. Lorenzo Carnevale, Annamaria Ficara, Gianluca Catalfamo, Antonino Galletta, Maria Fazio e Massimo Villari. "*Secure and Energy Efficient Filtered Over-the-Air Internet of Things Setup in a Wireless Mesh Network for Firmware Freshness*". IEEE International Conference on Big Data (BigData), Sorrento, Italy, 2023, pp. 3904–3913. (doi: [10.1109/BigData59044.2023.10386600](https://doi.org/10.1109/BigData59044.2023.10386600)).
+
+0. Giuseppe Di Modica, Antonino Galletta, Lorenzo Carnevale, Ahmad Alkhansa, Alessandro Costantini, Daniele Cesini, Paolo Bellavista e Massimo Villari. "*Orchestration of Containerized Applications in the Cloud Continuum*". IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops), Atlanta, United States, 2023, pp. 44–49. (doi: [10.1109/PerComWorkshops56833.2023.10150375](https://doi.org/10.1109/PerComWorkshops56833.2023.10150375)).
+
+0. Roberto Marino, Lorenzo Carnevale e Massimo Villari. "*When Robotics Meets Distributed Learning: the Federated Learning Robotic Network Framework*". IEEE Symposium
+on Computers and Communications (ISCC), Tunis, Tunisia, 2023, pp. 1–6. (doi: [10.1109/ISCC58397.2023](https://doi.org/10.1109/10.1109/ISCC58397.2023.10218022)).
+
+0. Gabriele Morabito, Christian Sicari, Lorenzo Carnevale, Antonino Galletta, Giuseppe Di Modica e Massimo Villari. "*Securing Serverless Workflows on the Cloud Edge Continuum*". IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing Workshops (CCGridW), Philadelphia, United States, 2023, pp. 118–124. (doi: [10.1109/CCGridW59191.2023.00032](https://doi.org/10.1109/CCGridW59191.2023.00032)).
+
+0. Davide Mulfari, Lorenzo Carnevale, Antonino Galletta e Massimo Villari. "*Edge Computing Solutions Supporting Voice Recognition Services for Speakers with Dysarthria*". IEEE/ACM 23rd International Symposium on Cluster, Cloud and Internet Computing Workshops (CCGridW), Philadelphia, United States, 2023, pp. 231–236. (doi: [10.1109/CCGridW59191.2023.00047](https://doi.org/10.1109/CCGridW59191.2023.00047)).
+
+0. Christian Sicari, Alessio Catalfamo, Lorenzo Carnevale, Antonino Galletta, Daniel Balouek-Thomert, Manish Parashar e Massimo Villari. "*TEMA: Event Driven Serverless Workflows
+Platform for Natural Disaster Management*". IEEE Symposium on Computers and Communications (ISCC), Tunis, Tunisia, 2023, pp. 1–6. (doi: [10.1109/ISCC58397.2023.10217920](https://doi.org/10.1109/ISCC58397.2023.10217920)).
+{: reversed="reversed"}
+
+
 #### 2022
+0. Alessio Catalfamo, Lorenzo Carnevale, Antonino Galletta, Francesco Martella, Antonio Celesti, Maria Fazio e Massimo Villari. "*Scaling Data Analysis Services in an Edge-based Federated Learning Environment*". IEEE/ACM 15th International Conference on Utility and Cloud Computing (UCC), Vancouver, United States, 2022, pp. 167–172. (doi: [10.1109/UCC56403.2022](https://doi.org/10.1109/UCC56403.2022.00030).
+
+0. Christian Sicari, Lorenzo Carnevale, Antonino Galletta e Massimo Villari. "*OpenWolf: A Serverless Workflow Engine for Native Cloud-Edge Continuum*". IEEE Intl Conf
+on Dependable, Autonomic and Secure Computing, Intl Conf on Pervasive Intelligence and Computing, Intl Conf on Cloud and Big Data Computing, Intl Conf on Cyber Science and Technology Congress (DASC/PiCom/CBDCom/CyberSciTech), Falerna, Italy, 2022, pp. 1–8. (doi: [10.1109/DASC/PiCom/CBDCom/Cy55231.2022.9927926](https://doi.org/10.1109/DASC/PiCom/CBDCom/Cy55231.2022.9927926)).
+
 0. Lorenzo Carnevale, Alessandro Ortis, Giancarlo Fortino, Sebastiano Battiato, Massimo Villari. "*From Cloud-Edge to Edge-Edge Continuum: the Swarm-Based Edge Computing Systems*". IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf on Pervasive Intelligence and Computing, Intl Conf on Cloud and Big Data Computing, Intl Conf on Cyber Science and Technology Congress (DASC/PiCom/CBDCom/CyberSciTech), Falerna, Italy, September 2022 (doi: [10.1109/DASC/PiCom/CBDCom/Cy55231.2022.9927883](https://doi.org/10.1109/DASC/PiCom/CBDCom/Cy55231.2022.9927883))
 
 0. Antonio Celesti, Maria Fazio, Lorenzo Carnevale, Massimo Villari. "*A NLP-based Approach to Improve Speech Recognition Services for People with Speech Disorders*". IEEE Symposium on Computers and Communications (ISCC), Rhodes, Greece, July 2022 (doi [10.1109/ISCC55528.2022.9912940](https://doi.org/10.1109/ISCC55528.2022.9912940))
@@ -130,7 +167,8 @@ issn: 1746-8094. (doi: [10.1016/j.bspc.2023.105321](https://doi.org/10.1016/j.bs
 ## <a name="book-chapter"></a>Book Chapters
 
 #### 2024
-0. ...
+0. Christian Sicari, Alessio Catalfamo, Lorenzo Carnevale, Antonino Galletta, Antonio Celesti, Maria Fazio e Massimo Villari. "*Toward the Edge-Cloud Continuum Through the Serverless Workflows*". Device-Edge-Cloud Continuum: Paradigms, Architectures and Applications. Claudio Savaglio, Giancarlo Fortino, MengChu Zhou and Jianhua Ma. Springer
+Nature Switzerland, 2024, pp. 1–18. (doi: [10.1007/978-3-031-42194-5_1](https://doi.org/10.1007/978-3-031-42194-5_1)).
 {: reversed="reversed"}
 
 ## <a name="patents"></a>Patents
