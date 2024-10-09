@@ -5,7 +5,7 @@ permalink: /publications/
 published: true
 ---
 
-[Journals](#journals) | [Conferences](#conferences) | Book Chapter | [Patents](#patents)
+[Journals](#journals) || [Conferences](#conferences) || Book Chapter || [Patents](#patents)
 
 ## <a name="journals"></a>Journal Papers
 
@@ -46,6 +46,7 @@ published: true
 #### 2017
 0. Antonino Galletta and Lorenzo Carnevale and Antonio Celesti and Maria Fazio and Massimo Villari. "*A Cloud-Based System for Improving Retention Marketing Loyalty Programs in Industry 4.0: A Study on Big Data Storage Implications*". IEEE Access, IEEE, vol. 6, pp. 5485-5492, ISSN: 2169-3536 (November 2017) (doi: [10.1109/ACCESS.2017.2776400](https://doi.org/10.1109/ACCESS.2017.2776400)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201711-paper-journal-ieee-access.bib)]
 {: reversed="reversed"}
+
 
 ## <a name="conferences"></a>Conference Papers
 
@@ -103,6 +104,7 @@ published: true
 
 0. Fabrizio Celesti and Antonio Celesti and Lorenzo Carnevale and Antonino Galletta and Salvatore Campo and Agata Romano and Placido Bramanti and Massimo Villari. "*Big data analytics in genomics: The point on Deep Learning solutions*". 2017 IEEE Symposium on Computers and Communications (ISCC), Heraklion, Greece, July 2017, pp. 306-309 (doi: [10.1109/ISCC.2017.8024547](https://doi.org/10.1109/ISCC.2017.8024547)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/201707-paper-conference-ieee-iscc-2.bib)]
 {: reversed="reversed"}
+
 
 ## <a name="patents"></a>Patents
 
