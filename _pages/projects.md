@@ -14,8 +14,7 @@ The following is a not exhaustive list of projects where I have been involved. I
 TEMA is a four year long project funded by the European Union. It is part of the Horizon Europe programme, Research and Innovation Action, under the call HORIZON-CL4-2022-DATA-01-01.
 
 The goal is to deliver an intelligent cloud-edge technical solution that is supportive in disaster response and management by bringing situational data to relevant end-users (e.g., first responders, fire fighters), enabling transferability to tackle different disaster types in various geographic region thus providing the relevant information that can help make the best possible operative decisions.<br>
-Resources: <a href="https://tema-project.eu">website</a><br>
-EU Funding & Tenders Portal: <a href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43108390/101093003/HORIZON">website</a><br>
+Resources: <a href="https://tema-project.eu">website</a> | <a href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43108390/101093003/HORIZON">EU Funding & Tenders Portal</a><br>
 Grant Agreement: 101093003
 
 #### NEUROKIT2E: Open source deep learning platform dedicated to Embedded hardware and Europe
@@ -24,8 +23,7 @@ Grant Agreement: 101093003
 TEMA is a three year long project funded by the European Union. It is part of the Horizon Europe programme, under the call HORIZON-KDT-JU-2022-2-RIA.
 
 The goal is to propose a Deep Learning Platform for Embedded Hardware around an established European value chain (providing AI hardware and software). It involves edge intelligence methodologies for training and inferencing, such as knowledge distillation, federated learning, pruning and quantization.<br>
-Resources: <a href="https://www.neurokit2e.eu">website</a><br>
-EU Funding & Tenders Portal: <a href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/894232331/project/101112268/program/43108390/details">website</a><br>
+Resources: <a href="https://www.neurokit2e.eu">website</a> | <a href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/894232331/project/101112268/program/43108390/details">EU Funding & Tenders Portal</a><br> 
 Grant Agreement: 101112268
 
 #### MicroPython Libraries and Drivers Series
