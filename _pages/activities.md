@@ -68,6 +68,10 @@ published: true
 {: reversed="reversed"}
 
 #### Program Committee Membership
+0. [BDCAT 2024](https://www.uccbdcat2024.org/BDCAT/) - "<i>11th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies</i>", December 2024, Sharjah, UAE
+
+0. [HC@AIxIA 2024](https://sites.google.com/unical.it/hcaixia2024) - "<i>3rd AIxIA Workshop on Artificial Intelligence For Healthcare</i>", November 2024, Bolzano, Italy
+
 0. [ICT-DM 2024](https://ict-dm2024.univ-setif.dz) - "<i>9th International Conference on Information and Communication Technologies for Disaster Management</i>", November 2024, Setif, Algeria
 
 0. [HC@AIxIA 2023](https://sites.google.com/unical.it/hcaixia2023) - "<i>2nd AIxIA Workshop on Artificial Intelligence For Healthcare</i>", November 2023, Rome, Italy
