@@ -8,6 +8,17 @@ published: true
 <!-- For students who wants to run a thesis, please, read these instructions. -->
 
 ## Thesis Students (Co-)Advisor
+1. [Marco Giacobbe](https://www.linkedin.com/in/marco-giacobbe-50842720a/), "*Studio ed implementazione di modelli predittivi Transformer e KAN per servizi di nowcasting metereologici su microcontrollori*", BSc 24/25, University of Messina
+1. [Tharun Reddy Banda](https://www.linkedin.com/in/tharun-reddy-banda/), "*Optimizing the Deployment of Large Language Models on Edge Devices: A Quantization Approach*", BSc 24/25, University of Messina
+1. [Francesco Bartolomeo](https://www.linkedin.com/in/francesco-bartolomeo-8025b1210/), "*Il ruolo della CPU nell'offloading dei microservizi nel computing continuum: una revisione sistematica della letteratura*", BSc 24/25, University of Messina
+1. [Simone Bongiorno](), "*Implicazioni dei Large Language Model nel campo educativo: una revisione sistematica utilizzando il metodo Prisma*", BSc 24/25, University of Messina
+1. [Danilo Cannistraci](), "*Progettazione, implementazione e integrazione di ROS2 con Orion Context Broker*", BSc 24/25, University of Messina
+1. [Tuan Manh Nguyen](), "*Abdominal Compliance Optimization for Laparoscopy Surgery in Pediatric Patients Using Swarm Intelligence*", BSc 24/25, University of Messina
+1. [Caterina Rando](https://www.linkedin.com/in/caterina-rando-62a4b5338/), "*Studio ed implementazione di algoritmi decentralizzati del Federated Learning*", BSc 24/25, University of Messina
+1. [Francesco Maria Russo](https://www.linkedin.com/in/francesco-maria-russo-194b47294/), "*Studio e analisi di performance computazionali ed energetiche di Small Language Models in ambienti edge computing*", BSc 24/25, University of Messina
+1. [Naveen Tiwari](https://www.linkedin.com/in/naveen-tiwari-37305b20a/), "*AI-Driven Search Engine Optimization Automation for WordPress using GPT and Personas*", BSc 24/25, University of Messina
+1. [Mariachiara Trifirò](https://www.linkedin.com/in/mariachiara-trifiró-b6170230b/), "*Tecniche di mappatura 3D e visualizzazione immersiva con robot a guida autonoma, Virtual Reality e RTAB-Map*", BSc 24/25, University of Messina
+1. [Luigi Villari](https://www.linkedin.com/in/luigi-villari-96ab55239/), "*Progettazione e implementazione di una macchina a stati finiti con pytransitions, MQTT e MongoDB per attività di Cloud Robotics*", BSc 24/25, University of Messina
 1. [Mark Adrian Gambito](https://www.linkedin.com/in/mark-adrian-gambito-42b79a195/), "*Development of a Virtual Reality Drunk Driving Immersive Experience with Reinforcement Learning Trained Non-Player Characters*", MEng 22/23, University of Messina
 1. [Serena Sebbio](https://www.linkedin.com/in/serena-sebbio-2775b9180/), "*Client Selection Algorithm fornFederated Learning Based on Edge Device Power Consumption*", MEng 22/23, University of Messina
 1. [Danny De Novi](), "*Implementazione e analisi di algoritmi di Reinforcement Learning nella guida autonoma: confronto tra PPO, DQN e DDQN in environment 2D e 3D*", BSc 22/23, University of Messina
