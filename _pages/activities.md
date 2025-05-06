@@ -70,6 +70,9 @@ published: true
 {: reversed="reversed"}
 
 #### Program Committee Membership
+0. [DAIS 2025](https://www.discotec.org/2025/dais) - "<i>20th International Federated Conference
+on Distributed Computing Techniques</i>", June 2025, Lille, France
+
 0. [BDCAT 2024](https://www.uccbdcat2024.org/BDCAT/) - "<i>11th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies</i>", December 2024, Sharjah, UAE
 
 0. [HC@AIxIA 2024](https://sites.google.com/unical.it/hcaixia2024) - "<i>3rd AIxIA Workshop on Artificial Intelligence For Healthcare</i>", November 2024, Bolzano, Italy
