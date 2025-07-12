@@ -8,6 +8,7 @@ published: true
 <!-- For students who wants to run a thesis, please, read these instructions. -->
 
 ## Thesis Students (Co-)Advisor
+1. [Maurizio Saccà](https://www.linkedin.com/in/maurizio-saccà-2b5822222/), "*Studio del contesto nel processamento del linguaggio naturale con BERT, spaCy e Feel It per l'integrazione di effetti sonori dinamici nell'era della lettura digitale*", BSc 24/25, University of Messina
 1. [Marco Giacobbe](https://www.linkedin.com/in/marco-giacobbe-50842720a/), "*Studio ed implementazione di modelli predittivi Transformer e KAN per servizi di nowcasting metereologici su microcontrollori*", BSc 24/25, University of Messina
 1. [Tharun Reddy Banda](https://www.linkedin.com/in/tharun-reddy-banda/), "*Optimizing the Deployment of Large Language Models on Edge Devices: A Quantization Approach*", BSc 24/25, University of Messina
 1. [Francesco Bartolomeo](https://www.linkedin.com/in/francesco-bartolomeo-8025b1210/), "*Il ruolo della CPU nell'offloading dei microservizi nel computing continuum: una revisione sistematica della letteratura*", BSc 24/25, University of Messina
@@ -34,6 +35,9 @@ published: true
 {: reversed="reversed"}
 
 ## Classes
+- **University of Messina**, MSc, Bio-Inspired Artificial Intelligence 2024/2025, [eLearning](https://moodle2.unime.it/course/view.php?id=49914)
+- **University of Messina**, BSc, Computer Networks 2024/2025, [eLearning](https://moodle2.unime.it/course/view.php?id=49522) - [git](https://github.com/lcarnevale/computer-networks)
+- **University of Messina**, BSc, Algoritmi e Strutture Dati 2024/2025, [eLearning](https://moodle2.unime.it/course/view.php?id=49913) - [git](https://github.com/lcarnevale/algorithms)
 - **University of Messina**, MMed, Rischi e opportunità dell'intelligenza artificiale in medicina 2023/2024, [project](https://unimeit-my.sharepoint.com/:f:/g/personal/lcarnevale_unime_it/EvM_7ESXtZpCrL1DJiHWPloBxZLItHAdBYoslvijZLZ5jw?e=FTM6g9)
 - **University of Messina**, BSc, Algoritmi e Strutture Dati 2023/2024, [eLearning](https://moodle2.unime.it/course/view.php?id=49273) - [git](https://github.com/lcarnevale/algorithms)
 - **University of Messina**, MSc, Bio-Inspired Artificial Intelligence 2023/2024, [eLearning](https://moodle2.unime.it/course/view.php?id=49272)
