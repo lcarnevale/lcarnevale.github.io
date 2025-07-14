@@ -11,6 +11,8 @@ published: true
 1. [Antonio Fleres](https://www.linkedin.com/in/antonio-fleres-863532177/). "*Robotica (sociale) e Sostenibilità. Impalcature teoriche della robosfera*", IULM University, Milan, Italy
 
 ## Thesis Students (Co-)Advisor
+1. [Alessandro Multari](), "*Studio e implementazione di metodologie predittive per l'uso delle risorse di calcolo CPU e Memoria con Transformer e Informer*", BSc 24/25, University of Messina, Messina, Italy
+1. [Salvatore Saitta](), "*Studio e implementazione di tecniche di Anomaly Detection per risorse di calcolo con Isolation Forest, AutoEncoder e Federated Learning*", BSc 24/25, University of Messina, Messina, Italy
 1. [Maurizio Saccà](https://www.linkedin.com/in/maurizio-saccà-2b5822222/), "*Studio del contesto nel processamento del linguaggio naturale con BERT, spaCy e Feel It per l'integrazione di effetti sonori dinamici nell'era della lettura digitale*", BSc 24/25, University of Messina, Messina, Italy
 1. [Marco Giacobbe](https://www.linkedin.com/in/marco-giacobbe-50842720a/), "*Studio ed implementazione di modelli predittivi Transformer e KAN per servizi di nowcasting metereologici su microcontrollori*", BSc 24/25, University of Messina, Messina, Italy
 1. [Tharun Reddy Banda](https://www.linkedin.com/in/tharun-reddy-banda/), "*Optimizing the Deployment of Large Language Models on Edge Devices: A Quantization Approach*", BSc 24/25, University of Messina, Messina, Italy
