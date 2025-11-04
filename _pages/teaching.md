@@ -11,6 +11,7 @@ published: true
 1. [Antonio Fleres](https://www.linkedin.com/in/antonio-fleres-863532177/). "*Robotica (sociale) e Sostenibilità. Impalcature teoriche della robosfera*", IULM University, Milan, Italy
 
 ## Thesis Students (Co-)Advisor
+1. [Arya Khosravirad](https://www.linkedin.com/in/arya-khosravi/), "*Comparison of Supervised vs. Unsupervised ResNet50 for Wildfires Detection*", BSc 24/25, University of Messina, Messina, Italy
 1. [Antonella Martina Nicolò](https://www.linkedin.com/in/antonella-martina-nicolò-48577710a/), "*Predizione di CPU, Memoria e I/O in ambienti di virtualizzazione leggera con RNN e LSTM*", BSc 24/25, University of Messina, Messina, Italy
 1. [Alessandro Multari](), "*Studio e implementazione di metodologie predittive per l'uso delle risorse di calcolo CPU e Memoria con Transformer e Informer*", BSc 24/25, University of Messina, Messina, Italy
 1. [Salvatore Saitta](), "*Studio e implementazione di tecniche di Anomaly Detection per risorse di calcolo con Isolation Forest, AutoEncoder e Federated Learning*", BSc 24/25, University of Messina, Messina, Italy
