@@ -41,6 +41,8 @@ Big Data Computing, Applications and Technologies</i>", December 2025, Nantes, F
 
 0. [ScaleSys 2025](https://scalesys2025.itec.aau.at) - "<i>1st International Workshop on Intelligent and Scalable Systems across the Computing Continuum</i>", November 2025, Vienna, Austria - Program Co-Chair
 
+0. [QUICK 2025](https://quick-workshop.github.io/2025/index.html) - "<i>3rd International Workshop on Urgent Computing for the Edge-Cloud Continuum</i>", May 2026, Tromso, Norwey - Program Co-Chair
+
 0. [DistInSys 2025](https://fcrlab.unime.it/calls/distinsys2025) - "<i>5th International Workshop on Distributed Intelligent Systems</i>", July 2025, Bologna, Italy - Steering Committee
 
 0. DistInSys 2024 - "<i>4th International Workshop on Distributed Intelligent Systems</i>", June 2024, Paris, France - Steering Committee
