@@ -69,6 +69,10 @@ issn: 1746-8094. (doi: [10.1016/j.bspc.2023.105321](https://doi.org/10.1016/j.bs
 
 ## <a name="conferences"></a>Conference Papers
 
+#### 2025
+0. Lorenzo Carnevale, Daniel Balouek, Serena Sebbio, Manish Parashar and Massimo Villari, "*Private Distributed Resource Management Data: Predicting CPU Utilization with Bi-LSTM and Federated Learning*" Proceedings of tge IEEE 25th International Symposium on Cluster, Cloud and Internet Computing (CCGrid), Tromsø, Norway, 2025, pp. 266-275 (doi: [10.1109/CCGRID64434.2025.00048](https://ieeexplore.ieee.org/document/11044838)).
+{: reversed="reversed"}
+
 #### 2024
 0. Lorenzo Carnevale, Antonio Filograna, Francesco Arigliano, Roberto Marino, Armando Ruggeri e Maria Fazio. "*Supporting the Natural Disaster Management Distributing Federated Intelligence over the Cloud-Edge Continuum: the TEMA Architecture*". Proceedings of the IEEE/ACM 10th International Conference on Big Data Computing, Applications and Technologies (BDCAT), Taormina, Italy, 2024. (doi: [10.1145/3632366.3632371](https://doi.org/10.1145/3632366.3632371)).
 
