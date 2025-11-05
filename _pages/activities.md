@@ -28,7 +28,7 @@ published: true
 
 0. [Artificial Intelligence on the Edge, Information, MDPI](https://www.mdpi.com/journal/information/special_issues/AI_on_the_edge)
 
-0. [Digital Healthcare Leveraging Edge Computing and the Internet of Things, Sensors, MDPI](https://www.mdpi.com/journal/sensors/special_issues/digihealth_IoT)
+0. [Digital Healthcare Leveraging Edge Computing and the Internet of Things, Sensors, MDPI](https://www.mdpi.com/journal/sensors/special_issues/digihealth_IoT) - [Editorial](https://www.mdpi.com/1424-8220/25/5/1571)
 {: reversed="reversed"}
 
 #### Conference and Workshops (Co-)Chair
