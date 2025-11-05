@@ -10,10 +10,9 @@ published: true
 ## <a name="journals"></a>Journal Papers
 
 #### 2024
-0. Lorenzo Carnevale, Giuseppe Floramo, Donatella Di Fabrizio, Salvatore Arena, Angela, Simona Montalto, Pietro Impellizzeri, Carmelo Romeo e Massimo Villari. "*Towards a precision medicine Solution for optimal pediatric Laparoscopy: An exploratory data analysis for features Selections*". Biomedical Signal Processing and Control 88 (2024), p. 105321.
-issn: 1746-8094. (doi: [10.1016/j.bspc.2023.105321](https://doi.org/10.1016/j.bspc.2023.105321)).
+0. Lorenzo Carnevale, Giuseppe Floramo, Donatella Di Fabrizio, Salvatore Arena, Angela, Simona Montalto, Pietro Impellizzeri, Carmelo Romeo and Massimo Villari. "*Towards a precision medicine Solution for optimal pediatric Laparoscopy: An exploratory data analysis for features Selections*". Biomedical Signal Processing and Control 88 (2024), p. 105321. ISSN: 1746-8094. (doi: [10.1016/j.bspc.2023.105321](https://doi.org/10.1016/j.bspc.2023.105321)).
 
-0. Lucas R. Frank, Antonino Galletta, Lorenzo Carnevale, Alex B. Vieira e Edelberto Franco Silva. "*Intelligent resource allocation in wireless networks: Predictive models for efficient access point management*". Computer Networks 254 (2024), p. 110762. issn: 1389-1286. (doi: [10.1016/j.comnet.2024.110762](https://doi.org/10.1016/j.comnet.2024.110762).
+0. Lucas R. Frank, Antonino Galletta, Lorenzo Carnevale, Alex B. Vieira and Edelberto Franco Silva. "*Intelligent resource allocation in wireless networks: Predictive models for efficient access point management*". Computer Networks 254 (2024), p. 110762. ISSN: 1389-1286. (doi: [10.1016/j.comnet.2024.110762](https://doi.org/10.1016/j.comnet.2024.110762).
 {: reversed="reversed"}
 
 #### 2023
