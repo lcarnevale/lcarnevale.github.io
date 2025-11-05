@@ -79,6 +79,8 @@ published: true
 
 0. Alessio Catalfamo, Lorenzo Carnevale, Marco Garofalo and Massimo Villari. "*Flower Full-Compliant Implementation of Federated Learning with Homomorphic Encryption*". Proceedings of the IEEE Symposium on Computers and Communications (ISCC), Paris, France, 2024, pp. 1-5 (doi: [10.1109/ISCC61673.2024.10733641][https://ieeexplore.ieee.org/document/10733641]).
 
+0. Pierluigi Dell’Acqua, Maria Fazio, Lorenzo Carnevale and Massimo Villari. "*Knowledge Distillation and Federated Learning for Data-Driven Monitoring of Electrical Vehicle Li-Battery*". Proceedings of the IEEE Symposium on Computers and Communications (ISCC), Paris, France, 2024, pp. 1-5. (doi: [10.1109/ISCC61673.2024.10733629][https://ieeexplore.ieee.org/document/10733629]).
+
 0. Lorenzo Carnevale, Antonio Filograna, Francesco Arigliano, Roberto Marino, Armando Ruggeri e Maria Fazio. "*Supporting the Natural Disaster Management Distributing Federated Intelligence over the Cloud-Edge Continuum: the TEMA Architecture*". Proceedings of the IEEE/ACM 10th International Conference on Big Data Computing, Applications and Technologies (BDCAT), Taormina, Italy, 2024. (doi: [10.1145/3632366.3632371](https://doi.org/10.1145/3632366.3632371)).
 
 0. Lorenzo Carnevale, Giuseppe Floramo, Donatella Di Fabrizio, Salvatore Arena, Angela Simona Montalto, Pietro Impellizzeri, and Carmelo Romeo. "*Computation of the Abdominal Compliance for Pediatric Laparoscopy by Fitting Curve with the Levenberg-Marquardt Algorithm*". Proceedings of the IEEE/ACM 10th International Conference on Big Data Computing, Applications and Technologies (BDCAT). Association for Computing Machinery, New York, NY, USA, Article 24, 1–2. 2024 (doi: [10.1145/3632366.3632376](https://doi.org/10.1145/3632366.3632376)).
