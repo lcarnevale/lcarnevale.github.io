@@ -70,7 +70,9 @@ issn: 1746-8094. (doi: [10.1016/j.bspc.2023.105321](https://doi.org/10.1016/j.bs
 ## <a name="conferences"></a>Conference Papers
 
 #### 2025
-0. Lorenzo Carnevale, Daniel Balouek, Serena Sebbio, Manish Parashar and Massimo Villari, "*Private Distributed Resource Management Data: Predicting CPU Utilization with Bi-LSTM and Federated Learning*" Proceedings of tge IEEE 25th International Symposium on Cluster, Cloud and Internet Computing (CCGrid), Tromsø, Norway, 2025, pp. 266-275 (doi: [10.1109/CCGRID64434.2025.00048](https://ieeexplore.ieee.org/document/11044838)).
+0. Lorenzo Carnevale, Daniel Balouek, Serena Sebbio, Manish Parashar and Massimo Villari, "*Private Distributed Resource Management Data: Predicting CPU Utilization with Bi-LSTM and Federated Learning*". Proceedings of the IEEE 25th International Symposium on Cluster, Cloud and Internet Computing (CCGrid), Tromsø, Norway, 2025, pp. 266-275 (doi: [10.1109/CCGRID64434.2025.00048](https://ieeexplore.ieee.org/document/11044838)).
+
+0. Serena Sebbio, Lorenzo Carnevale, Daniel Balouek, Manish Parashar and Massimo Villari, "*Data-Driven Operational Artificial Intelligence for Computing Continuum: A Natural Disaster Management Use Case*". Proceedings of the IEEE 25th International Symposium on Cluster, Cloud and Internet Computing Workshops (CCGridW), Tromsø, Norway, 2025, pp. 92-99 (doi: [10.1109/CCGridW65158.2025.00022][https://ieeexplore.ieee.org/document/11044453]).
 {: reversed="reversed"}
 
 #### 2024
