@@ -32,6 +32,9 @@ published: true
 {: reversed="reversed"}
 
 #### Conference and Workshops (Co-)Chair
+0. [CCGrid 2026](https://ccgrid2026.org/index.php) - "<i>26th IEEE International Symposium
+on Cluster, Cloud, and Internet Computing</i>", May 2026, Sydney, Australia - Scale Challenge Computation Co-Chair
+
 0. [QUICK 2026](https://quick-workshop.github.io) - "<i>4th International Workshop on Urgent Computing for the Edge-Cloud Continuum</i>", May 2026, Sydney, Australia - Program Co-Chair
 
 0. [BDCAT 2025](https://bdcat-conference.org) - "<i>12th IEEE/ACM International Conference on
