@@ -21,7 +21,7 @@ Grant Agreement: 101093003
 #### NEUROKIT2E: Open source deep learning platform dedicated to Embedded hardware and Europe
 <img src="https://img.shields.io/badge/project-european-green">
 
-TEMA is a three year long project funded by the European Union. It is part of the Horizon Europe programme, under the call HORIZON-KDT-JU-2022-2-RIA.
+NEUROKIT2E is a three year long project funded by the European Union. It is part of the Horizon Europe programme, under the call HORIZON-KDT-JU-2022-2-RIA.
 
 The goal is to propose a Deep Learning Platform for Embedded Hardware around an established European value chain (providing AI hardware and software). It involves edge intelligence methodologies for training and inferencing, such as knowledge distillation, federated learning, pruning and quantization.
 
