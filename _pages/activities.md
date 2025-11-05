@@ -32,7 +32,10 @@ published: true
 {: reversed="reversed"}
 
 #### Conference and Workshops (Co-)Chair
-0. [DML-ICC 2025](https://www.lrc.ic.unicamp.br/dml-icc/) - "<i>5th Workshop on Distributed Machine Learning for the Intelligent Computing Continuum (DML-ICC)</i>", December 2025, Nantes, France - Program Co-Chair
+0. [BDCAT 2025](https://bdcat-conference.org) - "<i>12th IEEE/ACM International Conference on
+Big Data Computing, Applications and Technologies</i>", December 2025, Nantes, France - Program Co-Chair
+
+0. [DML-ICC 2025](https://www.lrc.ic.unicamp.br/dml-icc/) - "<i>5th Workshop on Distributed Machine Learning for the Intelligent Computing Continuum</i>", December 2025, Nantes, France - Program Co-Chair
 
 0. [DistInSys 2025](https://fcrlab.unime.it/calls/distinsys2025) - "<i>5th International Workshop on Distributed Intelligent Systems</i>", July 2025, Bologna, Italy - Steering Committee
 
