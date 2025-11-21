@@ -7,8 +7,15 @@ published: true
 
 ## Resources
 
+#### 2025
+0. Lorenzo Carnevale "[Introduction to Tasks Offloading](https://www.youtube.com/watch?v=oQNL5HtvaIg)". YouTube (July 2025)
+{: reversed="reversed"}
+
 #### 2024
 0. Lorenzo Carnevale. "[A Brief History of Artificial Intelligence](https://medium.com/@lcarnevale/a-brief-history-of-artificial-intelligence-330d01229437)". Medium (May 2024)
+0. Lorenzo Carnevale "[Introduction to Kubernetes](https://www.youtube.com/watch?v=Tly3bW8bJvY)". YouTube (March 2024)
+0. Lorenzo Carnevale "[Introduction to Containers with Docker](https://www.youtube.com/watch?v=DQ7OsB1b4wI)". YouTube (March 2024)
+0. Lorenzo Carnevale "[Introduction to Cloud/Edge computing](https://www.youtube.com/watch?v=BErbxpXZubs)". YouTube (March 2024)
 0. Lorenzo Carnevale. "[The Federated Learning Technique for Mitigating the Climate Change](https://tema-project.eu/articles/federated-learning-technique-mitigating-climate-change)". TEMA Project (March 2024)
 {: reversed="reversed"}
 
