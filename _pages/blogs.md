@@ -1,11 +1,11 @@
 ---
 title:
 layout: default
-permalink: /blog/
+permalink: /resources/
 published: true
 ---
 
-## Blogs
+## Resources
 
 #### 2024
 0. Lorenzo Carnevale. "[A Brief History of Artificial Intelligence](https://medium.com/@lcarnevale/a-brief-history-of-artificial-intelligence-330d01229437)". Medium (May 2024)
