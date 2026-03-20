@@ -84,6 +84,8 @@ Big Data Computing, Applications and Technologies</i>", December 2025, Nantes, F
 {: reversed="reversed"}
 
 #### Program Committee Membership
+0. [DAIS 2026](http://www.discotec.org/2026/dais.html) - "<i>26th International Conference on Distributed Applications and Interoperable Systems</i>", June 2026, Urbino, Italy
+
 0. [DAIS 2025](https://www.discotec.org/2025/dais) - "<i>20th International Federated Conference
 on Distributed Computing Techniques</i>", June 2025, Lille, France
 
