@@ -32,6 +32,8 @@ published: true
 {: reversed="reversed"}
 
 #### Conference and Workshops (Co-)Chair
+0. [AutoEdge 2026](https://autoedge2026.github.io) - "<i>Autonomic and Agentic AI For IoT and Edge Systems</i>", June 2026, Cambridge, United Kingdom - Program Co-Chair
+
 0. [CCGrid 2026](https://ccgrid2026.org/index.php) - "<i>26th IEEE International Symposium
 on Cluster, Cloud, and Internet Computing</i>", May 2026, Sydney, Australia - Scale Challenge Computation Co-Chair
 
