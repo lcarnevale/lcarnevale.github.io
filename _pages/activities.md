@@ -84,6 +84,8 @@ Big Data Computing, Applications and Technologies</i>", December 2025, Nantes, F
 {: reversed="reversed"}
 
 #### Program Committee Membership
+0. [ICTS4eHealth 2026](https://icts4ehealth.icar.cnr.it) - "<i>6th IEEE International Conference on ICT Solutions for eHealth</i>", June 2026, Vilamoura, Algarve, Portugal
+
 0. [DAIS 2026](http://www.discotec.org/2026/dais.html) - "<i>26th International Conference on Distributed Applications and Interoperable Systems</i>", June 2026, Urbino, Italy
 
 0. [DAIS 2025](https://www.discotec.org/2025/dais) - "<i>20th International Federated Conference
