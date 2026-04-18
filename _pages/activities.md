@@ -84,6 +84,8 @@ Big Data Computing, Applications and Technologies</i>", December 2025, Nantes, F
 {: reversed="reversed"}
 
 #### Program Committee Membership
+0. [EAIS 2026](https://ai.dii.unipi.it/eais2026/) - "<i>IEEE International Conference on  Evolving and Adaptive Intelligent Systems 2026</i>", September 2026, Pisa, Italy
+
 0. [ICTS4eHealth 2026](https://icts4ehealth.icar.cnr.it) - "<i>6th IEEE International Conference on ICT Solutions for eHealth</i>", June 2026, Vilamoura, Algarve, Portugal
 
 0. [DAIS 2026](http://www.discotec.org/2026/dais.html) - "<i>26th International Conference on Distributed Applications and Interoperable Systems</i>", June 2026, Urbino, Italy
