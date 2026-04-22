@@ -5,6 +5,12 @@ permalink: /activities/
 published: true
 ---
 
+The following calls for papers are open and wait for your contribution:
+
+- [From Experimental AI to Industrial Decision Systems, Machine Learning & Knowledge Extraction, MDPI](https://www.mdpi.com/journal/make/special_issues/O0761N4ACH)
+
+- [Toward Sustainable Social Robotics. Ecological and Social Pathways for Responsible Socio-Technical Systems, International Journal of Social Robotics, Springer](https://link.springer.com/collections/bdghhhajae)
+
 #### Awards
 0. Best Student Paper Award - Christian Sicari and Lorenzo Carnevale and Antonino Galletta and Massimo Villari. "*OpenWolf: a Serverless Workflow Engine for Native Cloud-Edge Continuum*". The 7th IEEE Cyber Science and Technology Congress (CyberSciTech)", September 2022, Falerna (CZ), Italy
 {: reversed="reversed"}
@@ -24,6 +30,8 @@ published: true
 {: reversed="reversed"}
 
 #### Guest Editor
+0. [Emerging Technologies in Distributed Intelligence for Natural Disaster Management, Future Generation Computer Systems, Elsevier](https://www.sciencedirect.com/special-issue/327640/emerging-technologies-in-distributed-intelligence-for-natural-disaster-management)
+
 0. [New achievements of precision medicine with artificial intelligence, Biomedical Signal Processing and Control, Elsevier](https://www.sciencedirect.com/special-issue/10LRN2V7SWQ)
 
 0. [Artificial Intelligence on the Edge, Information, MDPI](https://www.mdpi.com/journal/information/special_issues/AI_on_the_edge)
