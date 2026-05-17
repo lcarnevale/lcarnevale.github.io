@@ -8,7 +8,7 @@ published: true
 ---
 
 #### Research Agenda
-As enhanced devices at the edge of the network exploit artificial intelligence, even novel computing challenges are raised. In my current research agenda, I investigate all aspects related to distributed intelligent systems for supporting cities and communities, with a strong focus on optimizing decentralized and self-organized systems. My research finds application in several domains, among which smart city, mobility, healthcare, cultural heritage and natural disasters.
+As enhanced devices at the edge of the network exploit artificial intelligence, even novel computing challenges are raised. In my current research agenda, I investigate all aspects related to distributed intelligent systems for supporting cities and communities, with a strong focus on optimizing resource constrained, decentralized and self-organized edge systems. My research finds application in several domains, among which smart city, mobility, healthcare, cultural heritage and natural disasters.
 
 <!-- #### Open Calls -->
 
