@@ -11,6 +11,7 @@ published: true
 1. [Antonio Fleres](https://www.linkedin.com/in/antonio-fleres-863532177/). "*Robotica (sociale) e Sostenibilità. Impalcature teoriche della robosfera*", IULM University, Milan, Italy
 
 ## Thesis Students (Co-)Advisor
+1. [Gabriele Calogero](), "*Lavorare al livello 4 dell’Edge Intelligence: il Federated Learning su ESP32 con Toit, C e ONNX*", BSc 25/26, University of Messina, Messina, Italy
 1. [Ignazio Galuppo](https://www.linkedin.com/in/ignazio-galuppo-08b186388/), "*La predizione delle risorse computazionali per la manutenzione predittiva: una review sistematica della letteratura*", BSc 25/26, University of Messina, Messina, Italy
 1. [Domenico Salvatore Maria Panarello](https://www.linkedin.com/in/domenico-salvatore-maria-panarello-640504217/), "*Progettazione e implementazione di un assistente vocale domestico con Phoscon RaspBee II, Home Assistant, Vosk e Rhasspy*", BSc 24/25, University of Messina, Messina, Italy
 1. [Khilud Abdulaziz Shikur](https://www.linkedin.com/in/khilud-abdulaziz-shikur-b648a4271/), "*Design and Implement a Task Offloading Simulator and Engine with with the  Actor-Critic Algorithm*", BSc 24/25, University of Messina, Messina, Italy
