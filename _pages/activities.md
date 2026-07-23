@@ -47,6 +47,8 @@ Big Data Computing, Applications and Technologies</i>", December 2026, Florianó
 
 0. [UCC 2026](https://ucc2026.ufsc.br) - "<i>19th IEEE/ACM International Conference on Utility and Cloud Computing</i>", December 2026, Florianópolis, SC – Brazil - Workshops Co-Chair
 
+0. [IoT 2026](https://iot-conference.org/iot2026/) - "<i>16th International Conference on the Internet of Things</i>", November 2026, Newcastle upon Tyne, United Kingdom - Program Co-Chair
+
 0. [AutoEdge 2026](https://autoedge2026.github.io) - "<i>Autonomic and Agentic AI For IoT and Edge Systems</i>", June 2026, Cambridge, United Kingdom - Program Co-Chair
 
 0. [CCGrid 2026](https://ccgrid2026.org/index.php) - "<i>26th IEEE International Symposium
