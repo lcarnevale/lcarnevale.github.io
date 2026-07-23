@@ -40,6 +40,8 @@ The following calls for papers are open and wait for your contribution:
 {: reversed="reversed"}
 
 #### Conference and Workshops (Co-)Chair
+0. [CCGrid 2027](https://hpcclab.org/ccgrid27/) - "<i>27th IEEE International Symposium on Cluster, Cloud, and Internet Computing</i>", May 2027, Dallas-Fort Worth, Texas, USA - Scale Challenge Co-Chair
+
 0. [BDCAT 2026](https://bdcat-conference.org) - "<i>13th IEEE/ACM International Conference on
 Big Data Computing, Applications and Technologies</i>", December 2026, Florianópolis, SC – Brazil - Workshops Co-Chair
 
